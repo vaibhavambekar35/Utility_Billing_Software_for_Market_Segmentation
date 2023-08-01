@@ -1,0 +1,1470 @@
+id,product,qty,price,category,Date
+1,Nutella Choco Spread,,55,snacks,22-Aug-21
+2,Oreo(20Rs),9,200,snacks,17-Feb-22
+3,Chocolate Muffin,3,200,snacks,11-Mar-21
+4,Ashirvaad Atta(1kg),4,300,grocery,08-Sep-22
+5,Sunflower Oil(1kg),1,400,grocery,24-Jan-20
+6,Bathing Soap,4,300,beauty,29-Sep-22
+7,Hand Sanitizer,8,400,beauty,18-Mar-21
+8,Nutella Choco Spread,5,55,snacks,01-Mar-21
+9,Oreo(20Rs),7,200,snacks,14-Jul-22
+10,Chocolate Muffin,3,200,snacks,18-Nov-22
+11,Ashirvaad Atta(1kg),10,300,grocery,26-Aug-21
+12,Sunflower Oil(1kg),5,400,grocery,20-May-20
+13,Bathing Soap,8,300,beauty,23-Jan-20
+14,Hand Sanitizer,8,400,beauty,23-Dec-21
+15,Nutella Choco Spread,5,55,snacks,16-Jul-20
+16,Oreo(20Rs),1,200,snacks,09-Nov-22
+17,Chocolate Muffin,6,200,snacks,20-Jan-22
+18,Ashirvaad Atta(1kg),5,300,grocery,06-Jun-20
+19,Sunflower Oil(1kg),6,400,grocery,30-Jan-22
+20,Bathing Soap,4,300,beauty,19-Jun-20
+21,Hand Sanitizer,2,400,beauty,12-Oct-22
+22,Nutella Choco Spread,1,55,snacks,10-Nov-21
+23,Oreo(20Rs),6,200,snacks,18-Nov-22
+24,Chocolate Muffin,7,200,snacks,24-Jul-20
+25,Ashirvaad Atta(1kg),9,300,grocery,07-Oct-20
+26,Sunflower Oil(1kg),2,400,grocery,17-Aug-21
+27,Bathing Soap,6,300,beauty,16-Dec-22
+28,Hand Sanitizer,3,400,beauty,19-Jul-20
+29,Nutella Choco Spread,1,55,snacks,16-Nov-22
+30,Oreo(20Rs),10,200,snacks,08-May-22
+31,Chocolate Muffin,6,200,snacks,01-May-22
+32,Ashirvaad Atta(1kg),10,300,grocery,02-Mar-22
+33,Sunflower Oil(1kg),5,400,grocery,28-Jul-21
+34,Bathing Soap,4,300,beauty,10-Feb-22
+35,Hand Sanitizer,3,400,beauty,08-Jun-22
+36,Nutella Choco Spread,7,55,snacks,08-Jan-20
+37,Oreo(20Rs),8,200,snacks,26-Jul-20
+38,Chocolate Muffin,9,200,snacks,13-Mar-21
+39,Ashirvaad Atta(1kg),1,300,grocery,24-Sep-22
+40,Sunflower Oil(1kg),7,400,grocery,11-Jun-21
+41,Bathing Soap,7,300,beauty,24-Mar-20
+42,Hand Sanitizer,5,400,beauty,16-Dec-22
+43,Nutella Choco Spread,8,55,snacks,04-Feb-22
+44,Oreo(20Rs),8,200,snacks,20-Jul-21
+45,Chocolate Muffin,4,200,snacks,21-Jan-21
+46,Ashirvaad Atta(1kg),1,300,grocery,29-Jun-20
+47,Sunflower Oil(1kg),9,400,grocery,14-Oct-21
+48,Bathing Soap,1,300,beauty,11-Apr-22
+49,Hand Sanitizer,1,400,beauty,13-Feb-21
+50,Nutella Choco Spread,9,55,snacks,16-Feb-21
+51,Oreo(20Rs),10,200,snacks,23-Aug-22
+52,Chocolate Muffin,1,200,snacks,19-Nov-22
+53,Ashirvaad Atta(1kg),7,300,grocery,12-Nov-21
+54,Sunflower Oil(1kg),6,400,grocery,09-Mar-20
+55,Bathing Soap,10,300,beauty,24-Aug-20
+56,Hand Sanitizer,8,400,beauty,16-Mar-20
+57,Nutella Choco Spread,8,55,snacks,27-Feb-20
+58,Oreo(20Rs),6,200,snacks,02-Jan-21
+59,Chocolate Muffin,10,200,snacks,20-Jul-20
+60,Ashirvaad Atta(1kg),7,300,grocery,03-Sep-20
+61,Sunflower Oil(1kg),8,400,grocery,22-Aug-20
+62,Bathing Soap,8,300,beauty,01-Nov-20
+63,Hand Sanitizer,8,400,beauty,20-Feb-20
+64,Nutella Choco Spread,2,55,snacks,12-Mar-21
+65,Oreo(20Rs),7,200,snacks,23-Nov-21
+66,Chocolate Muffin,2,200,snacks,18-Jan-20
+67,Ashirvaad Atta(1kg),8,300,grocery,22-Apr-20
+68,Sunflower Oil(1kg),3,400,grocery,20-Jul-21
+69,Bathing Soap,5,300,beauty,03-Sep-21
+70,Hand Sanitizer,8,400,beauty,12-Sep-21
+71,Nutella Choco Spread,2,55,snacks,17-Dec-22
+72,Oreo(20Rs),7,200,snacks,08-Jun-22
+73,Chocolate Muffin,1,200,snacks,24-Aug-21
+74,Ashirvaad Atta(1kg),6,300,grocery,02-Jun-20
+75,Sunflower Oil(1kg),6,400,grocery,11-Feb-20
+76,Bathing Soap,1,300,beauty,17-Apr-20
+77,Hand Sanitizer,4,400,beauty,21-Dec-22
+78,Nutella Choco Spread,4,55,snacks,07-Mar-20
+79,Oreo(20Rs),3,200,snacks,03-Mar-20
+80,Chocolate Muffin,10,200,snacks,16-Aug-22
+81,Ashirvaad Atta(1kg),6,300,grocery,16-Mar-20
+82,Sunflower Oil(1kg),1,400,grocery,05-Feb-20
+83,Bathing Soap,4,300,beauty,11-Nov-21
+84,Hand Sanitizer,8,400,beauty,26-Dec-22
+85,Nutella Choco Spread,3,55,snacks,20-May-22
+86,Oreo(20Rs),4,200,snacks,01-Feb-21
+87,Chocolate Muffin,2,200,snacks,16-Aug-22
+88,Ashirvaad Atta(1kg),4,300,grocery,28-May-22
+89,Sunflower Oil(1kg),1,400,grocery,31-Oct-21
+90,Bathing Soap,8,300,beauty,26-Sep-21
+91,Hand Sanitizer,5,400,beauty,17-Dec-22
+92,Nutella Choco Spread,5,55,snacks,13-Jul-20
+93,Oreo(20Rs),5,200,snacks,02-May-22
+94,Chocolate Muffin,7,200,snacks,23-May-22
+95,Ashirvaad Atta(1kg),5,300,grocery,27-Apr-20
+96,Sunflower Oil(1kg),1,400,grocery,29-May-22
+97,Bathing Soap,3,300,beauty,18-Aug-21
+98,Hand Sanitizer,1,400,beauty,14-Feb-22
+99,Nutella Choco Spread,10,55,snacks,09-Mar-20
+100,Oreo(20Rs),3,200,snacks,18-Mar-20
+101,Chocolate Muffin,8,200,snacks,27-Jan-22
+102,Ashirvaad Atta(1kg),8,300,grocery,06-Jul-21
+103,Sunflower Oil(1kg),3,400,grocery,31-Dec-20
+104,Bathing Soap,6,300,beauty,18-Oct-20
+105,Hand Sanitizer,10,400,beauty,14-Oct-22
+106,Nutella Choco Spread,6,55,snacks,31-Mar-22
+107,Oreo(20Rs),9,200,snacks,10-Jun-22
+108,Chocolate Muffin,8,200,snacks,07-Sep-21
+109,Ashirvaad Atta(1kg),3,300,grocery,15-Jun-20
+110,Sunflower Oil(1kg),2,400,grocery,10-Apr-20
+111,Bathing Soap,3,300,beauty,06-May-21
+112,Hand Sanitizer,2,400,beauty,13-Nov-20
+113,Nutella Choco Spread,4,55,snacks,11-May-22
+114,Oreo(20Rs),7,200,snacks,03-Apr-22
+115,Chocolate Muffin,8,200,snacks,22-Oct-20
+116,Ashirvaad Atta(1kg),1,300,grocery,11-Mar-22
+117,Sunflower Oil(1kg),5,400,grocery,26-Jun-21
+118,Bathing Soap,8,300,beauty,11-Jan-22
+119,Hand Sanitizer,5,400,beauty,06-Feb-21
+120,Nutella Choco Spread,6,55,snacks,01-Mar-21
+121,Oreo(20Rs),9,200,snacks,08-Mar-20
+122,Chocolate Muffin,7,200,snacks,27-Dec-21
+123,Ashirvaad Atta(1kg),7,300,grocery,24-Sep-21
+124,Sunflower Oil(1kg),4,400,grocery,05-Dec-20
+125,Bathing Soap,7,300,beauty,17-Aug-20
+126,Hand Sanitizer,1,400,beauty,29-Jan-21
+127,Nutella Choco Spread,3,55,snacks,15-Apr-21
+128,Oreo(20Rs),10,200,snacks,11-Oct-20
+129,Chocolate Muffin,3,200,snacks,05-Feb-21
+130,Ashirvaad Atta(1kg),5,300,grocery,13-Dec-20
+131,Sunflower Oil(1kg),5,400,grocery,01-Aug-21
+132,Bathing Soap,4,300,beauty,15-Sep-20
+133,Hand Sanitizer,7,400,beauty,15-Jan-22
+134,Nutella Choco Spread,4,55,snacks,28-May-21
+135,Oreo(20Rs),5,200,snacks,15-Feb-22
+136,Chocolate Muffin,3,200,snacks,15-Feb-22
+137,Ashirvaad Atta(1kg),5,300,grocery,30-Oct-22
+138,Sunflower Oil(1kg),2,400,grocery,21-May-22
+139,Bathing Soap,9,300,beauty,28-Apr-22
+140,Hand Sanitizer,9,400,beauty,06-Jun-20
+141,Nutella Choco Spread,3,55,snacks,21-Dec-20
+142,Oreo(20Rs),8,200,snacks,31-Oct-22
+143,Chocolate Muffin,7,200,snacks,12-Dec-21
+144,Ashirvaad Atta(1kg),4,300,grocery,17-Jan-22
+145,Sunflower Oil(1kg),5,400,grocery,20-Mar-21
+146,Bathing Soap,9,300,beauty,14-Oct-21
+147,Hand Sanitizer,1,400,beauty,13-Dec-20
+148,Nutella Choco Spread,9,55,snacks,01-Nov-22
+149,Oreo(20Rs),6,200,snacks,10-Nov-20
+150,Chocolate Muffin,5,200,snacks,26-Aug-20
+151,Ashirvaad Atta(1kg),10,300,grocery,13-Jan-22
+152,Sunflower Oil(1kg),1,400,grocery,02-May-22
+153,Bathing Soap,2,300,beauty,10-Aug-21
+154,Hand Sanitizer,3,400,beauty,15-Jun-22
+155,Nutella Choco Spread,6,55,snacks,23-Oct-22
+156,Oreo(20Rs),7,200,snacks,04-Jan-20
+157,Chocolate Muffin,2,200,snacks,26-Aug-22
+158,Ashirvaad Atta(1kg),8,300,grocery,04-Oct-21
+159,Sunflower Oil(1kg),1,400,grocery,23-Dec-22
+160,Bathing Soap,5,300,beauty,19-Dec-20
+161,Hand Sanitizer,8,400,beauty,11-May-20
+162,Nutella Choco Spread,4,55,snacks,29-Oct-20
+163,Oreo(20Rs),5,200,snacks,15-Dec-22
+164,Chocolate Muffin,2,200,snacks,21-Feb-22
+165,Ashirvaad Atta(1kg),3,300,grocery,26-May-21
+166,Sunflower Oil(1kg),10,400,grocery,25-Jul-20
+167,Bathing Soap,6,300,beauty,26-Aug-20
+168,Hand Sanitizer,3,400,beauty,04-Jul-20
+169,Nutella Choco Spread,3,55,snacks,20-Nov-22
+170,Oreo(20Rs),5,200,snacks,12-Nov-21
+171,Chocolate Muffin,3,200,snacks,10-Jul-20
+172,Ashirvaad Atta(1kg),3,300,grocery,11-Sep-22
+173,Sunflower Oil(1kg),5,400,grocery,30-Jan-21
+174,Bathing Soap,8,300,beauty,14-Feb-21
+175,Hand Sanitizer,7,400,beauty,25-Jun-20
+176,Nutella Choco Spread,10,55,snacks,22-Nov-20
+177,Oreo(20Rs),1,200,snacks,19-Jun-22
+178,Chocolate Muffin,7,200,snacks,01-Mar-20
+179,Ashirvaad Atta(1kg),7,300,grocery,05-Sep-21
+180,Sunflower Oil(1kg),10,400,grocery,14-Apr-20
+181,Bathing Soap,9,300,beauty,29-May-20
+182,Hand Sanitizer,1,400,beauty,18-Oct-22
+183,Nutella Choco Spread,4,55,snacks,25-Aug-20
+184,Oreo(20Rs),8,200,snacks,02-Dec-22
+185,Chocolate Muffin,6,200,snacks,14-Sep-21
+186,Ashirvaad Atta(1kg),10,300,grocery,17-Sep-21
+187,Sunflower Oil(1kg),3,400,grocery,27-Aug-21
+188,Bathing Soap,4,300,beauty,09-Sep-21
+189,Hand Sanitizer,9,400,beauty,24-Jun-20
+190,Nutella Choco Spread,9,55,snacks,13-Jul-22
+191,Oreo(20Rs),1,200,snacks,23-Feb-20
+192,Chocolate Muffin,9,200,snacks,18-Apr-21
+193,Ashirvaad Atta(1kg),1,300,grocery,10-Mar-21
+194,Sunflower Oil(1kg),9,400,grocery,08-Sep-20
+195,Bathing Soap,7,300,beauty,15-Jul-20
+196,Hand Sanitizer,7,400,beauty,03-Apr-22
+197,Nutella Choco Spread,2,55,snacks,12-Feb-22
+198,Oreo(20Rs),4,200,snacks,20-Jun-20
+199,Chocolate Muffin,1,200,snacks,20-Jun-21
+200,Ashirvaad Atta(1kg),4,300,grocery,11-Dec-21
+201,Sunflower Oil(1kg),9,400,grocery,24-Sep-20
+202,Bathing Soap,2,300,beauty,31-Aug-22
+203,Hand Sanitizer,4,400,beauty,12-Sep-20
+204,Nutella Choco Spread,7,55,snacks,29-Nov-20
+205,Oreo(20Rs),9,200,snacks,03-Jul-20
+206,Chocolate Muffin,1,200,snacks,13-May-22
+207,Ashirvaad Atta(1kg),3,300,grocery,16-Jan-20
+208,Sunflower Oil(1kg),3,400,grocery,03-Jan-22
+209,Bathing Soap,8,300,beauty,15-Mar-22
+210,Hand Sanitizer,10,400,beauty,12-Mar-21
+211,Nutella Choco Spread,3,55,snacks,25-Aug-21
+212,Oreo(20Rs),9,200,snacks,10-Oct-20
+213,Chocolate Muffin,9,200,snacks,20-Sep-22
+214,Ashirvaad Atta(1kg),10,300,grocery,17-Aug-20
+215,Sunflower Oil(1kg),7,400,grocery,19-Jun-20
+216,Bathing Soap,8,300,beauty,04-Feb-22
+217,Hand Sanitizer,1,400,beauty,06-Mar-20
+218,Nutella Choco Spread,4,55,snacks,17-Feb-22
+219,Oreo(20Rs),7,200,snacks,03-Sep-21
+220,Chocolate Muffin,5,200,snacks,05-Mar-21
+221,Ashirvaad Atta(1kg),2,300,grocery,31-Aug-20
+222,Sunflower Oil(1kg),10,400,grocery,01-Nov-22
+223,Bathing Soap,2,300,beauty,23-Aug-20
+224,Hand Sanitizer,4,400,beauty,27-Mar-21
+225,Nutella Choco Spread,1,55,snacks,07-Sep-22
+226,Oreo(20Rs),4,200,snacks,03-Dec-21
+227,Chocolate Muffin,6,200,snacks,04-Oct-20
+228,Ashirvaad Atta(1kg),6,300,grocery,23-Jul-21
+229,Sunflower Oil(1kg),10,400,grocery,09-Dec-22
+230,Bathing Soap,8,300,beauty,27-Jan-22
+231,Hand Sanitizer,7,400,beauty,19-Feb-22
+232,Nutella Choco Spread,2,55,snacks,14-Jun-22
+233,Oreo(20Rs),7,200,snacks,18-Apr-22
+234,Chocolate Muffin,6,200,snacks,02-Dec-20
+235,Ashirvaad Atta(1kg),1,300,grocery,28-Apr-20
+236,Sunflower Oil(1kg),5,400,grocery,31-Jul-21
+237,Bathing Soap,6,300,beauty,29-Jun-21
+238,Hand Sanitizer,6,400,beauty,10-Oct-21
+239,Nutella Choco Spread,5,55,snacks,07-Feb-21
+240,Oreo(20Rs),4,200,snacks,01-May-20
+241,Chocolate Muffin,9,200,snacks,04-Nov-22
+242,Ashirvaad Atta(1kg),2,300,grocery,13-Dec-20
+243,Sunflower Oil(1kg),5,400,grocery,20-Apr-21
+244,Bathing Soap,10,300,beauty,22-Jul-22
+245,Hand Sanitizer,6,400,beauty,21-Feb-20
+246,Nutella Choco Spread,10,55,snacks,11-Aug-20
+247,Oreo(20Rs),2,200,snacks,17-Apr-22
+248,Chocolate Muffin,9,200,snacks,28-Aug-20
+249,Ashirvaad Atta(1kg),1,300,grocery,20-Oct-21
+250,Sunflower Oil(1kg),8,400,grocery,26-May-21
+251,Bathing Soap,1,300,beauty,22-Sep-20
+252,Hand Sanitizer,8,400,beauty,16-May-22
+253,Nutella Choco Spread,6,55,snacks,29-Aug-21
+254,Oreo(20Rs),5,200,snacks,14-Apr-20
+255,Chocolate Muffin,3,200,snacks,07-Nov-21
+256,Ashirvaad Atta(1kg),10,300,grocery,15-May-20
+257,Sunflower Oil(1kg),7,400,grocery,15-Dec-21
+258,Bathing Soap,9,300,beauty,31-Dec-22
+259,Hand Sanitizer,1,400,beauty,21-Aug-21
+260,Nutella Choco Spread,2,55,snacks,18-Sep-21
+261,Oreo(20Rs),6,200,snacks,29-Aug-20
+262,Chocolate Muffin,10,200,snacks,07-Aug-20
+263,Ashirvaad Atta(1kg),9,300,grocery,19-Feb-21
+264,Sunflower Oil(1kg),1,400,grocery,23-Apr-21
+265,Bathing Soap,9,300,beauty,09-Apr-21
+266,Hand Sanitizer,6,400,beauty,08-Apr-20
+267,Nutella Choco Spread,10,55,snacks,29-Sep-22
+268,Oreo(20Rs),6,200,snacks,20-Jul-22
+269,Chocolate Muffin,7,200,snacks,02-Oct-22
+270,Ashirvaad Atta(1kg),5,300,grocery,26-Nov-22
+271,Sunflower Oil(1kg),6,400,grocery,08-Oct-21
+272,Bathing Soap,10,300,beauty,07-Nov-20
+273,Hand Sanitizer,10,400,beauty,24-Nov-20
+274,Nutella Choco Spread,4,55,snacks,12-Aug-21
+275,Oreo(20Rs),4,200,snacks,08-Jul-22
+276,Chocolate Muffin,2,200,snacks,01-Feb-21
+277,Ashirvaad Atta(1kg),9,300,grocery,23-Jun-21
+278,Sunflower Oil(1kg),7,400,grocery,20-Oct-22
+279,Bathing Soap,3,300,beauty,19-Oct-22
+280,Hand Sanitizer,7,400,beauty,24-May-22
+281,Nutella Choco Spread,4,55,snacks,21-Oct-22
+282,Oreo(20Rs),9,200,snacks,14-Apr-21
+283,Chocolate Muffin,7,200,snacks,07-Feb-21
+284,Ashirvaad Atta(1kg),4,300,grocery,17-Mar-22
+285,Sunflower Oil(1kg),9,400,grocery,17-Oct-21
+286,Bathing Soap,1,300,beauty,16-Sep-21
+287,Hand Sanitizer,9,400,beauty,30-Jan-20
+288,Nutella Choco Spread,5,55,snacks,22-Sep-20
+289,Oreo(20Rs),8,200,snacks,28-Sep-21
+290,Chocolate Muffin,8,200,snacks,23-Nov-22
+291,Ashirvaad Atta(1kg),1,300,grocery,01-May-22
+292,Sunflower Oil(1kg),1,400,grocery,22-Sep-22
+293,Bathing Soap,9,300,beauty,03-Oct-22
+294,Hand Sanitizer,8,400,beauty,23-Feb-20
+295,Nutella Choco Spread,3,55,snacks,19-Oct-22
+296,Oreo(20Rs),9,200,snacks,12-Apr-21
+297,Chocolate Muffin,4,200,snacks,26-Jul-22
+298,Ashirvaad Atta(1kg),9,300,grocery,27-Oct-20
+299,Sunflower Oil(1kg),3,400,grocery,07-Dec-21
+300,Bathing Soap,2,300,beauty,30-Mar-20
+301,Hand Sanitizer,4,400,beauty,06-Jun-22
+302,Nutella Choco Spread,8,55,snacks,06-Feb-22
+303,Oreo(20Rs),3,200,snacks,11-Jul-22
+304,Chocolate Muffin,1,200,snacks,08-Feb-22
+305,Ashirvaad Atta(1kg),6,300,grocery,01-May-20
+306,Sunflower Oil(1kg),4,400,grocery,26-Sep-20
+307,Bathing Soap,3,300,beauty,29-Nov-21
+308,Hand Sanitizer,10,400,beauty,05-Dec-22
+309,Nutella Choco Spread,1,55,snacks,27-Feb-21
+310,Oreo(20Rs),5,200,snacks,28-Jul-21
+311,Chocolate Muffin,4,200,snacks,02-Aug-21
+312,Ashirvaad Atta(1kg),3,300,grocery,05-Dec-20
+313,Sunflower Oil(1kg),1,400,grocery,06-Sep-22
+314,Bathing Soap,8,300,beauty,16-Jun-21
+315,Hand Sanitizer,7,400,beauty,08-Sep-22
+316,Nutella Choco Spread,6,55,snacks,15-Sep-22
+317,Oreo(20Rs),2,200,snacks,31-Jul-20
+318,Chocolate Muffin,10,200,snacks,31-Oct-20
+319,Ashirvaad Atta(1kg),8,300,grocery,22-Dec-22
+320,Sunflower Oil(1kg),10,400,grocery,15-Jan-22
+321,Bathing Soap,7,300,beauty,08-Jul-22
+322,Hand Sanitizer,10,400,beauty,04-Aug-20
+323,Nutella Choco Spread,7,55,snacks,15-Nov-21
+324,Oreo(20Rs),5,200,snacks,07-Nov-22
+325,Chocolate Muffin,1,200,snacks,05-May-22
+326,Ashirvaad Atta(1kg),7,300,grocery,31-Jan-21
+327,Sunflower Oil(1kg),5,400,grocery,10-Feb-20
+328,Bathing Soap,3,300,beauty,29-May-22
+329,Hand Sanitizer,4,400,beauty,27-Sep-20
+330,Nutella Choco Spread,4,55,snacks,17-Jun-21
+331,Oreo(20Rs),2,200,snacks,24-Jan-22
+332,Chocolate Muffin,8,200,snacks,25-May-21
+333,Ashirvaad Atta(1kg),1,300,grocery,20-Apr-22
+334,Sunflower Oil(1kg),10,400,grocery,26-Nov-20
+335,Bathing Soap,10,300,beauty,28-Feb-21
+336,Hand Sanitizer,10,400,beauty,02-Feb-22
+337,Nutella Choco Spread,6,55,snacks,29-Dec-20
+338,Oreo(20Rs),7,200,snacks,21-Jul-22
+339,Chocolate Muffin,9,200,snacks,10-May-20
+340,Ashirvaad Atta(1kg),5,300,grocery,20-Sep-20
+341,Sunflower Oil(1kg),8,400,grocery,29-Feb-20
+342,Bathing Soap,8,300,beauty,25-May-21
+343,Hand Sanitizer,7,400,beauty,20-Apr-22
+344,Nutella Choco Spread,1,55,snacks,13-Apr-22
+345,Oreo(20Rs),2,200,snacks,25-Sep-20
+346,Chocolate Muffin,9,200,snacks,19-Mar-22
+347,Ashirvaad Atta(1kg),6,300,grocery,29-Jun-22
+348,Sunflower Oil(1kg),7,400,grocery,21-Jan-20
+349,Bathing Soap,6,300,beauty,06-May-20
+350,Hand Sanitizer,10,400,beauty,28-Feb-21
+351,Nutella Choco Spread,8,55,snacks,19-Jun-22
+352,Oreo(20Rs),6,200,snacks,11-Feb-21
+353,Chocolate Muffin,4,200,snacks,16-Feb-22
+354,Ashirvaad Atta(1kg),9,300,grocery,26-Mar-21
+355,Sunflower Oil(1kg),8,400,grocery,04-Apr-21
+356,Bathing Soap,3,300,beauty,28-Mar-20
+357,Hand Sanitizer,3,400,beauty,11-Feb-21
+358,Nutella Choco Spread,4,55,snacks,22-Apr-22
+359,Oreo(20Rs),3,200,snacks,23-Nov-21
+360,Chocolate Muffin,7,200,snacks,16-Jan-21
+361,Ashirvaad Atta(1kg),9,300,grocery,11-May-21
+362,Sunflower Oil(1kg),8,400,grocery,07-Mar-22
+363,Bathing Soap,2,300,beauty,02-Dec-21
+364,Hand Sanitizer,9,400,beauty,12-Feb-22
+365,Nutella Choco Spread,8,55,snacks,30-Mar-21
+366,Oreo(20Rs),3,200,snacks,08-Nov-21
+367,Chocolate Muffin,6,200,snacks,28-Sep-21
+368,Ashirvaad Atta(1kg),10,300,grocery,29-Nov-21
+369,Sunflower Oil(1kg),4,400,grocery,12-Jan-22
+370,Bathing Soap,3,300,beauty,15-Dec-20
+371,Hand Sanitizer,3,400,beauty,20-Aug-20
+372,Nutella Choco Spread,8,55,snacks,21-Sep-20
+373,Oreo(20Rs),9,200,snacks,08-May-20
+374,Chocolate Muffin,4,200,snacks,29-Nov-20
+375,Ashirvaad Atta(1kg),10,300,grocery,23-Dec-21
+376,Sunflower Oil(1kg),9,400,grocery,03-Sep-20
+377,Bathing Soap,6,300,beauty,13-Jan-22
+378,Hand Sanitizer,3,400,beauty,22-Aug-20
+379,Nutella Choco Spread,1,55,snacks,06-Jun-21
+380,Oreo(20Rs),2,200,snacks,23-Jul-21
+381,Chocolate Muffin,4,200,snacks,28-Feb-20
+382,Ashirvaad Atta(1kg),1,300,grocery,20-Nov-22
+383,Sunflower Oil(1kg),8,400,grocery,15-May-21
+384,Bathing Soap,1,300,beauty,03-Apr-20
+385,Hand Sanitizer,4,400,beauty,03-Nov-21
+386,Nutella Choco Spread,4,55,snacks,14-Jan-21
+387,Oreo(20Rs),10,200,snacks,05-Oct-21
+388,Chocolate Muffin,3,200,snacks,07-Dec-21
+389,Ashirvaad Atta(1kg),9,300,grocery,18-Jul-21
+390,Sunflower Oil(1kg),7,400,grocery,04-Feb-20
+391,Bathing Soap,3,300,beauty,14-Jan-22
+392,Hand Sanitizer,6,400,beauty,16-Apr-21
+393,Nutella Choco Spread,3,55,snacks,08-Sep-21
+394,Oreo(20Rs),8,200,snacks,14-Dec-20
+395,Chocolate Muffin,4,200,snacks,07-May-21
+396,Ashirvaad Atta(1kg),3,300,grocery,27-Aug-22
+397,Sunflower Oil(1kg),4,400,grocery,15-Mar-21
+398,Bathing Soap,5,300,beauty,17-Nov-21
+399,Hand Sanitizer,1,400,beauty,31-May-22
+400,Nutella Choco Spread,1,55,snacks,02-Nov-20
+401,Oreo(20Rs),3,200,snacks,08-Jul-20
+402,Chocolate Muffin,1,200,snacks,02-Jun-22
+403,Ashirvaad Atta(1kg),2,300,grocery,21-Apr-22
+404,Sunflower Oil(1kg),3,400,grocery,19-Jun-20
+405,Bathing Soap,3,300,beauty,30-Apr-22
+406,Hand Sanitizer,9,400,beauty,24-Apr-20
+407,Nutella Choco Spread,1,55,snacks,27-Apr-21
+408,Oreo(20Rs),1,200,snacks,08-Apr-22
+409,Chocolate Muffin,1,200,snacks,08-Feb-20
+410,Ashirvaad Atta(1kg),4,300,grocery,10-Mar-22
+411,Sunflower Oil(1kg),7,400,grocery,08-Jan-21
+412,Bathing Soap,7,300,beauty,29-Jul-22
+413,Hand Sanitizer,8,400,beauty,24-Oct-20
+414,Nutella Choco Spread,8,55,snacks,12-Dec-20
+415,Oreo(20Rs),1,200,snacks,25-Jan-22
+416,Chocolate Muffin,7,200,snacks,04-Feb-21
+417,Ashirvaad Atta(1kg),5,300,grocery,02-Jun-22
+418,Sunflower Oil(1kg),5,400,grocery,22-Dec-21
+419,Bathing Soap,5,300,beauty,13-Dec-21
+420,Hand Sanitizer,10,400,beauty,08-Jul-21
+421,Nutella Choco Spread,8,55,snacks,29-Feb-20
+422,Oreo(20Rs),10,200,snacks,26-Apr-20
+423,Chocolate Muffin,7,200,snacks,09-Jun-21
+424,Ashirvaad Atta(1kg),10,300,grocery,15-Oct-21
+425,Sunflower Oil(1kg),10,400,grocery,08-Oct-20
+426,Bathing Soap,10,300,beauty,06-Jul-20
+427,Hand Sanitizer,10,400,beauty,15-Nov-20
+428,Nutella Choco Spread,5,55,snacks,06-Jul-20
+429,Oreo(20Rs),7,200,snacks,30-Jun-20
+430,Chocolate Muffin,3,200,snacks,17-Oct-21
+431,Ashirvaad Atta(1kg),1,300,grocery,06-Jun-20
+432,Sunflower Oil(1kg),6,400,grocery,14-Mar-21
+433,Bathing Soap,3,300,beauty,29-Sep-21
+434,Hand Sanitizer,9,400,beauty,16-Jan-22
+435,Nutella Choco Spread,10,55,snacks,17-May-20
+436,Oreo(20Rs),3,200,snacks,05-Dec-20
+437,Chocolate Muffin,6,200,snacks,20-Jul-20
+438,Ashirvaad Atta(1kg),6,300,grocery,19-Sep-21
+439,Sunflower Oil(1kg),8,400,grocery,29-Dec-20
+440,Bathing Soap,4,300,beauty,01-Feb-20
+441,Hand Sanitizer,3,400,beauty,20-Mar-20
+442,Nutella Choco Spread,3,55,snacks,25-May-22
+443,Oreo(20Rs),8,200,snacks,05-Aug-21
+444,Chocolate Muffin,3,200,snacks,03-Mar-22
+445,Ashirvaad Atta(1kg),7,300,grocery,28-Jun-22
+446,Sunflower Oil(1kg),9,400,grocery,01-Apr-20
+447,Bathing Soap,1,300,beauty,01-Jun-22
+448,Hand Sanitizer,8,400,beauty,10-Oct-20
+449,Nutella Choco Spread,6,55,snacks,04-May-20
+450,Oreo(20Rs),1,200,snacks,12-May-21
+451,Chocolate Muffin,2,200,snacks,03-Aug-20
+452,Ashirvaad Atta(1kg),8,300,grocery,09-Nov-20
+453,Sunflower Oil(1kg),3,400,grocery,02-Jan-21
+454,Bathing Soap,3,300,beauty,31-Jan-20
+455,Hand Sanitizer,5,400,beauty,20-Jan-22
+456,Nutella Choco Spread,6,55,snacks,05-Nov-20
+457,Oreo(20Rs),3,200,snacks,09-Jun-22
+458,Chocolate Muffin,7,200,snacks,11-Sep-21
+459,Ashirvaad Atta(1kg),9,300,grocery,08-Aug-21
+460,Sunflower Oil(1kg),9,400,grocery,08-Aug-21
+461,Bathing Soap,1,300,beauty,06-Jan-20
+462,Hand Sanitizer,10,400,beauty,07-Dec-22
+463,Nutella Choco Spread,2,55,snacks,18-Sep-20
+464,Oreo(20Rs),3,200,snacks,11-Mar-20
+465,Chocolate Muffin,7,200,snacks,29-Mar-20
+466,Ashirvaad Atta(1kg),10,300,grocery,20-Dec-22
+467,Sunflower Oil(1kg),9,400,grocery,20-May-21
+468,Bathing Soap,10,300,beauty,11-Feb-20
+469,Hand Sanitizer,1,400,beauty,13-Jun-20
+470,Nutella Choco Spread,8,55,snacks,24-Jun-22
+471,Oreo(20Rs),3,200,snacks,04-Dec-22
+472,Chocolate Muffin,3,200,snacks,18-Apr-21
+473,Ashirvaad Atta(1kg),6,300,grocery,15-Mar-22
+474,Sunflower Oil(1kg),2,400,grocery,26-Jun-22
+475,Bathing Soap,2,300,beauty,06-Aug-21
+476,Hand Sanitizer,1,400,beauty,15-Sep-22
+477,Nutella Choco Spread,10,55,snacks,05-Jan-22
+478,Oreo(20Rs),8,200,snacks,25-Nov-20
+479,Chocolate Muffin,2,200,snacks,06-Aug-20
+480,Ashirvaad Atta(1kg),2,300,grocery,07-Dec-20
+481,Sunflower Oil(1kg),10,400,grocery,10-Aug-20
+482,Bathing Soap,5,300,beauty,09-Mar-22
+483,Hand Sanitizer,1,400,beauty,30-Apr-22
+484,Nutella Choco Spread,,55,snacks,30-Oct-20
+485,Oreo(20Rs),9,200,snacks,11-Dec-22
+486,Chocolate Muffin,3,200,snacks,30-Jun-21
+487,Ashirvaad Atta(1kg),4,300,grocery,09-Feb-22
+488,Sunflower Oil(1kg),1,400,grocery,06-Dec-20
+489,Bathing Soap,4,300,beauty,17-Nov-21
+490,Hand Sanitizer,8,400,beauty,20-Nov-21
+491,Nutella Choco Spread,5,55,snacks,20-Jan-20
+492,Oreo(20Rs),7,200,snacks,05-Aug-22
+493,Chocolate Muffin,3,200,snacks,14-Feb-22
+494,Ashirvaad Atta(1kg),10,300,grocery,01-Feb-21
+495,Sunflower Oil(1kg),5,400,grocery,02-Sep-22
+496,Bathing Soap,8,300,beauty,20-Aug-20
+497,Hand Sanitizer,8,400,beauty,19-Sep-21
+498,Nutella Choco Spread,5,55,snacks,29-Oct-20
+499,Oreo(20Rs),1,200,snacks,25-Nov-22
+500,Chocolate Muffin,6,200,snacks,18-Oct-21
+501,Ashirvaad Atta(1kg),5,300,grocery,19-Jun-21
+502,Sunflower Oil(1kg),6,400,grocery,14-Aug-21
+503,Bathing Soap,4,300,beauty,19-Oct-22
+504,Hand Sanitizer,2,400,beauty,09-Apr-21
+505,Nutella Choco Spread,1,55,snacks,05-Mar-20
+506,Oreo(20Rs),6,200,snacks,03-Nov-20
+507,Chocolate Muffin,7,200,snacks,07-May-21
+508,Ashirvaad Atta(1kg),9,300,grocery,17-Mar-22
+509,Sunflower Oil(1kg),2,400,grocery,19-Apr-21
+510,Bathing Soap,6,300,beauty,15-Oct-21
+511,Hand Sanitizer,3,400,beauty,17-Oct-22
+512,Nutella Choco Spread,1,55,snacks,18-Jul-21
+513,Oreo(20Rs),10,200,snacks,09-Oct-22
+514,Chocolate Muffin,6,200,snacks,11-Aug-22
+515,Ashirvaad Atta(1kg),10,300,grocery,28-Nov-22
+516,Sunflower Oil(1kg),5,400,grocery,26-May-22
+517,Bathing Soap,4,300,beauty,05-Jan-21
+518,Hand Sanitizer,3,400,beauty,09-Dec-21
+519,Nutella Choco Spread,7,55,snacks,05-Sep-20
+520,Oreo(20Rs),8,200,snacks,23-Dec-21
+521,Chocolate Muffin,9,200,snacks,03-Feb-22
+522,Ashirvaad Atta(1kg),1,300,grocery,25-Nov-20
+523,Sunflower Oil(1kg),7,400,grocery,04-Sep-22
+524,Bathing Soap,7,300,beauty,26-Aug-22
+525,Hand Sanitizer,5,400,beauty,23-Nov-22
+526,Nutella Choco Spread,8,55,snacks,20-Nov-21
+527,Oreo(20Rs),8,200,snacks,06-Sep-20
+528,Chocolate Muffin,4,200,snacks,16-Jan-20
+529,Ashirvaad Atta(1kg),1,300,grocery,26-Sep-22
+530,Sunflower Oil(1kg),9,400,grocery,05-Feb-20
+531,Bathing Soap,1,300,beauty,22-May-21
+532,Hand Sanitizer,1,400,beauty,20-Jul-20
+533,Nutella Choco Spread,9,55,snacks,30-Jul-21
+534,Oreo(20Rs),10,200,snacks,17-Apr-21
+535,Chocolate Muffin,1,200,snacks,06-Mar-20
+536,Ashirvaad Atta(1kg),7,300,grocery,01-Jan-20
+537,Sunflower Oil(1kg),6,400,grocery,13-May-21
+538,Bathing Soap,10,300,beauty,01-Jun-22
+539,Hand Sanitizer,8,400,beauty,15-Jan-22
+540,Nutella Choco Spread,8,55,snacks,30-Aug-22
+541,Oreo(20Rs),6,200,snacks,22-Dec-21
+542,Chocolate Muffin,10,200,snacks,10-Aug-20
+543,Ashirvaad Atta(1kg),7,300,grocery,29-Oct-20
+544,Sunflower Oil(1kg),8,400,grocery,25-Feb-21
+545,Bathing Soap,8,300,beauty,13-Jul-21
+546,Hand Sanitizer,8,400,beauty,24-Dec-20
+547,Nutella Choco Spread,2,55,snacks,07-Jun-20
+548,Oreo(20Rs),7,200,snacks,16-Sep-20
+549,Chocolate Muffin,2,200,snacks,18-Nov-21
+550,Ashirvaad Atta(1kg),8,300,grocery,28-Sep-21
+551,Sunflower Oil(1kg),3,400,grocery,22-Mar-20
+552,Bathing Soap,5,300,beauty,13-Dec-22
+553,Hand Sanitizer,8,400,beauty,25-Jun-20
+554,Nutella Choco Spread,2,55,snacks,01-Dec-22
+555,Oreo(20Rs),7,200,snacks,11-Dec-22
+556,Chocolate Muffin,1,200,snacks,10-Dec-20
+557,Ashirvaad Atta(1kg),6,300,grocery,25-Nov-22
+558,Sunflower Oil(1kg),6,400,grocery,03-Jul-21
+559,Bathing Soap,1,300,beauty,12-May-22
+560,Hand Sanitizer,4,400,beauty,22-Apr-20
+561,Nutella Choco Spread,4,55,snacks,02-Oct-20
+562,Oreo(20Rs),3,200,snacks,08-May-20
+563,Chocolate Muffin,10,200,snacks,12-May-21
+564,Ashirvaad Atta(1kg),6,300,grocery,21-Oct-21
+565,Sunflower Oil(1kg),1,400,grocery,05-Oct-21
+566,Bathing Soap,4,300,beauty,07-Nov-20
+567,Hand Sanitizer,8,400,beauty,13-Dec-20
+568,Nutella Choco Spread,3,55,snacks,05-Nov-21
+569,Oreo(20Rs),4,200,snacks,16-Jun-21
+570,Chocolate Muffin,2,200,snacks,08-Mar-20
+571,Ashirvaad Atta(1kg),4,300,grocery,22-Sep-22
+572,Sunflower Oil(1kg),1,400,grocery,27-Sep-21
+573,Bathing Soap,8,300,beauty,24-Sep-21
+574,Hand Sanitizer,5,400,beauty,03-Jul-22
+575,Nutella Choco Spread,5,55,snacks,07-Mar-21
+576,Oreo(20Rs),5,200,snacks,17-Sep-20
+577,Chocolate Muffin,7,200,snacks,01-Aug-20
+578,Ashirvaad Atta(1kg),5,300,grocery,28-Dec-21
+579,Sunflower Oil(1kg),1,400,grocery,21-Apr-22
+580,Bathing Soap,3,300,beauty,18-May-20
+581,Hand Sanitizer,1,400,beauty,17-Jan-20
+582,Nutella Choco Spread,10,55,snacks,09-Jun-22
+583,Oreo(20Rs),3,200,snacks,11-Dec-20
+584,Chocolate Muffin,8,200,snacks,01-Aug-22
+585,Ashirvaad Atta(1kg),8,300,grocery,03-Feb-20
+586,Sunflower Oil(1kg),3,400,grocery,25-Jul-22
+587,Bathing Soap,6,300,beauty,19-Dec-20
+588,Hand Sanitizer,10,400,beauty,24-Oct-21
+589,Nutella Choco Spread,6,55,snacks,05-Nov-22
+590,Oreo(20Rs),9,200,snacks,14-Dec-22
+591,Chocolate Muffin,8,200,snacks,14-Sep-21
+592,Ashirvaad Atta(1kg),3,300,grocery,23-Jun-20
+593,Sunflower Oil(1kg),2,400,grocery,10-Apr-21
+594,Bathing Soap,3,300,beauty,01-Apr-22
+595,Hand Sanitizer,2,400,beauty,20-Feb-20
+596,Nutella Choco Spread,4,55,snacks,26-Sep-20
+597,Oreo(20Rs),7,200,snacks,29-Aug-20
+598,Chocolate Muffin,8,200,snacks,26-Jul-21
+599,Ashirvaad Atta(1kg),1,300,grocery,12-Aug-20
+600,Sunflower Oil(1kg),5,400,grocery,24-Mar-20
+601,Bathing Soap,8,300,beauty,12-Aug-22
+602,Hand Sanitizer,5,400,beauty,11-Dec-22
+603,Nutella Choco Spread,6,55,snacks,04-Oct-20
+604,Oreo(20Rs),9,200,snacks,17-Jan-22
+605,Chocolate Muffin,7,200,snacks,03-May-20
+606,Ashirvaad Atta(1kg),7,300,grocery,05-Jun-21
+607,Sunflower Oil(1kg),4,400,grocery,10-Jul-22
+608,Bathing Soap,7,300,beauty,21-Sep-21
+609,Hand Sanitizer,1,400,beauty,25-Jun-22
+610,Nutella Choco Spread,3,55,snacks,07-Oct-21
+611,Oreo(20Rs),10,200,snacks,07-Nov-20
+612,Chocolate Muffin,3,200,snacks,04-Apr-21
+613,Ashirvaad Atta(1kg),5,300,grocery,28-Apr-22
+614,Sunflower Oil(1kg),5,400,grocery,21-Dec-21
+615,Bathing Soap,4,300,beauty,17-Aug-20
+616,Hand Sanitizer,7,400,beauty,05-Feb-21
+617,Nutella Choco Spread,4,55,snacks,23-Jan-21
+618,Oreo(20Rs),5,200,snacks,16-Mar-20
+619,Chocolate Muffin,3,200,snacks,01-Mar-22
+620,Ashirvaad Atta(1kg),5,300,grocery,11-Dec-20
+621,Sunflower Oil(1kg),2,400,grocery,15-Feb-20
+622,Bathing Soap,9,300,beauty,31-Jan-21
+623,Hand Sanitizer,9,400,beauty,10-Jun-21
+624,Nutella Choco Spread,3,55,snacks,14-May-22
+625,Oreo(20Rs),8,200,snacks,02-Jun-20
+626,Chocolate Muffin,7,200,snacks,26-Jan-22
+627,Ashirvaad Atta(1kg),4,300,grocery,28-Aug-22
+628,Sunflower Oil(1kg),5,400,grocery,22-Oct-20
+629,Bathing Soap,9,300,beauty,24-Apr-22
+630,Hand Sanitizer,1,400,beauty,18-Jan-20
+631,Nutella Choco Spread,9,55,snacks,22-Jun-20
+632,Oreo(20Rs),6,200,snacks,07-Jan-20
+633,Chocolate Muffin,5,200,snacks,10-Feb-22
+634,Ashirvaad Atta(1kg),10,300,grocery,26-Sep-22
+635,Sunflower Oil(1kg),1,400,grocery,28-Apr-21
+636,Bathing Soap,2,300,beauty,15-Nov-22
+637,Hand Sanitizer,3,400,beauty,05-Nov-22
+638,Nutella Choco Spread,6,55,snacks,12-Mar-22
+639,Oreo(20Rs),7,200,snacks,04-Feb-20
+640,Chocolate Muffin,2,200,snacks,08-Mar-21
+641,Ashirvaad Atta(1kg),8,300,grocery,21-Jul-21
+642,Sunflower Oil(1kg),1,400,grocery,02-Nov-22
+643,Bathing Soap,5,300,beauty,14-Oct-22
+644,Hand Sanitizer,8,400,beauty,04-May-21
+645,Nutella Choco Spread,4,55,snacks,04-Sep-21
+646,Oreo(20Rs),5,200,snacks,23-Dec-20
+647,Chocolate Muffin,2,200,snacks,09-Aug-20
+648,Ashirvaad Atta(1kg),3,300,grocery,11-Oct-21
+649,Sunflower Oil(1kg),10,400,grocery,15-May-22
+650,Bathing Soap,6,300,beauty,09-Aug-22
+651,Hand Sanitizer,3,400,beauty,06-Sep-22
+652,Nutella Choco Spread,3,55,snacks,05-Jun-20
+653,Oreo(20Rs),5,200,snacks,17-Feb-20
+654,Chocolate Muffin,3,200,snacks,14-Jul-21
+655,Ashirvaad Atta(1kg),3,300,grocery,11-Jul-22
+656,Sunflower Oil(1kg),5,400,grocery,11-Mar-21
+657,Bathing Soap,8,300,beauty,25-May-22
+658,Hand Sanitizer,7,400,beauty,13-Aug-21
+659,Nutella Choco Spread,10,55,snacks,02-Sep-22
+660,Oreo(20Rs),1,200,snacks,11-Nov-20
+661,Chocolate Muffin,7,200,snacks,09-Jan-20
+662,Ashirvaad Atta(1kg),7,300,grocery,05-Jun-20
+663,Sunflower Oil(1kg),10,400,grocery,24-Sep-20
+664,Bathing Soap,9,300,beauty,07-Jun-22
+665,Hand Sanitizer,1,400,beauty,11-Jul-22
+666,Nutella Choco Spread,4,55,snacks,04-Jul-20
+667,Oreo(20Rs),8,200,snacks,31-Dec-21
+668,Chocolate Muffin,6,200,snacks,12-May-21
+669,Ashirvaad Atta(1kg),10,300,grocery,27-Jan-22
+670,Sunflower Oil(1kg),3,400,grocery,17-Mar-22
+671,Bathing Soap,4,300,beauty,29-May-22
+672,Hand Sanitizer,9,400,beauty,27-Jan-21
+673,Nutella Choco Spread,9,55,snacks,28-May-20
+674,Oreo(20Rs),1,200,snacks,30-Nov-21
+675,Chocolate Muffin,9,200,snacks,14-Jun-20
+676,Ashirvaad Atta(1kg),1,300,grocery,11-Aug-22
+677,Sunflower Oil(1kg),9,400,grocery,09-Dec-20
+678,Bathing Soap,7,300,beauty,15-Apr-22
+679,Hand Sanitizer,7,400,beauty,25-Jun-20
+680,Nutella Choco Spread,2,55,snacks,29-Apr-20
+681,Oreo(20Rs),4,200,snacks,08-May-21
+682,Chocolate Muffin,1,200,snacks,02-Oct-21
+683,Ashirvaad Atta(1kg),4,300,grocery,20-Sep-20
+684,Sunflower Oil(1kg),9,400,grocery,10-Oct-20
+685,Bathing Soap,2,300,beauty,14-Feb-20
+686,Hand Sanitizer,4,400,beauty,05-Nov-22
+687,Nutella Choco Spread,7,55,snacks,11-Dec-22
+688,Oreo(20Rs),9,200,snacks,04-Jul-20
+689,Chocolate Muffin,1,200,snacks,17-Sep-20
+690,Ashirvaad Atta(1kg),3,300,grocery,22-Dec-20
+691,Sunflower Oil(1kg),3,400,grocery,03-Mar-22
+692,Bathing Soap,8,300,beauty,04-Jul-21
+693,Hand Sanitizer,10,400,beauty,17-Jan-22
+694,Nutella Choco Spread,3,55,snacks,03-Jul-21
+695,Oreo(20Rs),9,200,snacks,19-Feb-21
+696,Chocolate Muffin,9,200,snacks,01-Jan-21
+697,Ashirvaad Atta(1kg),10,300,grocery,26-Jan-22
+698,Sunflower Oil(1kg),7,400,grocery,12-Jan-20
+699,Bathing Soap,8,300,beauty,08-Jul-22
+700,Hand Sanitizer,1,400,beauty,08-Jul-22
+701,Nutella Choco Spread,4,55,snacks,26-Jan-20
+702,Oreo(20Rs),7,200,snacks,31-Aug-20
+703,Chocolate Muffin,5,200,snacks,12-Sep-22
+704,Ashirvaad Atta(1kg),2,300,grocery,24-Dec-21
+705,Sunflower Oil(1kg),10,400,grocery,09-May-21
+706,Bathing Soap,2,300,beauty,16-Jan-22
+707,Hand Sanitizer,4,400,beauty,23-Dec-20
+708,Nutella Choco Spread,1,55,snacks,23-Aug-20
+709,Oreo(20Rs),4,200,snacks,24-Jan-21
+710,Chocolate Muffin,6,200,snacks,29-Dec-22
+711,Ashirvaad Atta(1kg),6,300,grocery,23-May-22
+712,Sunflower Oil(1kg),10,400,grocery,13-May-20
+713,Bathing Soap,8,300,beauty,23-Sep-21
+714,Hand Sanitizer,7,400,beauty,19-Feb-21
+715,Nutella Choco Spread,2,55,snacks,21-Oct-21
+716,Oreo(20Rs),7,200,snacks,15-Nov-22
+717,Chocolate Muffin,6,200,snacks,31-May-22
+718,Ashirvaad Atta(1kg),1,300,grocery,08-Sep-22
+719,Sunflower Oil(1kg),5,400,grocery,15-Apr-20
+720,Bathing Soap,6,300,beauty,09-Feb-21
+721,Hand Sanitizer,6,400,beauty,18-Mar-20
+722,Nutella Choco Spread,5,55,snacks,26-Jan-22
+723,Oreo(20Rs),4,200,snacks,25-Jan-20
+724,Chocolate Muffin,9,200,snacks,08-Aug-21
+725,Ashirvaad Atta(1kg),2,300,grocery,20-Apr-20
+726,Sunflower Oil(1kg),5,400,grocery,30-Dec-20
+727,Bathing Soap,10,300,beauty,22-Nov-22
+728,Hand Sanitizer,6,400,beauty,26-Aug-22
+729,Nutella Choco Spread,10,55,snacks,08-Aug-21
+730,Oreo(20Rs),2,200,snacks,21-Sep-21
+731,Chocolate Muffin,9,200,snacks,26-Apr-21
+732,Ashirvaad Atta(1kg),1,300,grocery,01-Jan-20
+733,Sunflower Oil(1kg),8,400,grocery,31-Mar-20
+734,Bathing Soap,1,300,beauty,18-Jul-20
+735,Hand Sanitizer,8,400,beauty,11-Feb-22
+736,Nutella Choco Spread,6,55,snacks,18-Nov-21
+737,Oreo(20Rs),5,200,snacks,02-Jul-21
+738,Chocolate Muffin,3,200,snacks,06-Mar-22
+739,Ashirvaad Atta(1kg),10,300,grocery,05-Apr-20
+740,Sunflower Oil(1kg),7,400,grocery,11-Aug-22
+741,Bathing Soap,9,300,beauty,20-Oct-22
+742,Hand Sanitizer,1,400,beauty,07-May-21
+743,Nutella Choco Spread,2,55,snacks,22-Dec-22
+744,Oreo(20Rs),6,200,snacks,18-Jan-21
+745,Chocolate Muffin,10,200,snacks,03-Dec-22
+746,Ashirvaad Atta(1kg),9,300,grocery,04-Jun-21
+747,Sunflower Oil(1kg),1,400,grocery,11-Mar-20
+748,Bathing Soap,9,300,beauty,16-Oct-21
+749,Hand Sanitizer,6,400,beauty,12-Jul-20
+750,Nutella Choco Spread,10,55,snacks,17-Nov-21
+751,Oreo(20Rs),6,200,snacks,15-May-20
+752,Chocolate Muffin,7,200,snacks,09-Mar-22
+753,Ashirvaad Atta(1kg),5,300,grocery,23-Nov-20
+754,Sunflower Oil(1kg),6,400,grocery,04-Oct-21
+755,Bathing Soap,10,300,beauty,22-Apr-22
+756,Hand Sanitizer,10,400,beauty,03-Apr-21
+757,Nutella Choco Spread,4,55,snacks,02-Jan-22
+758,Oreo(20Rs),4,200,snacks,03-Mar-21
+759,Chocolate Muffin,2,200,snacks,30-Oct-21
+760,Ashirvaad Atta(1kg),9,300,grocery,24-Jun-21
+761,Sunflower Oil(1kg),7,400,grocery,12-Oct-20
+762,Bathing Soap,3,300,beauty,10-Aug-21
+763,Hand Sanitizer,7,400,beauty,30-Oct-22
+764,Nutella Choco Spread,4,55,snacks,23-Feb-20
+765,Oreo(20Rs),9,200,snacks,16-Jun-21
+766,Chocolate Muffin,7,200,snacks,13-Feb-21
+767,Ashirvaad Atta(1kg),4,300,grocery,07-May-21
+768,Sunflower Oil(1kg),9,400,grocery,01-Feb-20
+769,Bathing Soap,1,300,beauty,27-Oct-20
+770,Hand Sanitizer,9,400,beauty,27-Apr-21
+771,Nutella Choco Spread,5,55,snacks,30-May-20
+772,Oreo(20Rs),8,200,snacks,28-Apr-22
+773,Chocolate Muffin,8,200,snacks,20-Jun-20
+774,Ashirvaad Atta(1kg),1,300,grocery,21-Nov-20
+775,Sunflower Oil(1kg),1,400,grocery,10-Sep-22
+776,Bathing Soap,9,300,beauty,24-Jan-21
+777,Hand Sanitizer,8,400,beauty,09-Mar-22
+778,Nutella Choco Spread,3,55,snacks,02-Nov-22
+779,Oreo(20Rs),9,200,snacks,17-Aug-20
+780,Chocolate Muffin,4,200,snacks,04-Jul-20
+781,Ashirvaad Atta(1kg),9,300,grocery,16-Sep-22
+782,Sunflower Oil(1kg),3,400,grocery,09-Dec-21
+783,Bathing Soap,2,300,beauty,04-Jun-20
+784,Hand Sanitizer,4,400,beauty,19-Jul-21
+785,Nutella Choco Spread,8,55,snacks,01-Jun-22
+786,Oreo(20Rs),3,200,snacks,03-Nov-22
+787,Chocolate Muffin,1,200,snacks,10-Apr-22
+788,Ashirvaad Atta(1kg),6,300,grocery,03-Jan-21
+789,Sunflower Oil(1kg),4,400,grocery,03-Dec-21
+790,Bathing Soap,3,300,beauty,25-Feb-22
+791,Hand Sanitizer,10,400,beauty,28-Dec-20
+792,Nutella Choco Spread,1,55,snacks,21-Nov-21
+793,Oreo(20Rs),5,200,snacks,05-Feb-20
+794,Chocolate Muffin,4,200,snacks,25-Nov-20
+795,Ashirvaad Atta(1kg),3,300,grocery,24-Oct-22
+796,Sunflower Oil(1kg),1,400,grocery,03-Aug-22
+797,Bathing Soap,8,300,beauty,28-Apr-20
+798,Hand Sanitizer,7,400,beauty,06-Oct-20
+799,Nutella Choco Spread,6,55,snacks,06-May-22
+800,Oreo(20Rs),2,200,snacks,06-Jun-22
+801,Chocolate Muffin,10,200,snacks,11-Jun-22
+802,Ashirvaad Atta(1kg),8,300,grocery,01-Apr-22
+803,Sunflower Oil(1kg),10,400,grocery,12-Apr-20
+804,Bathing Soap,7,300,beauty,12-Feb-22
+805,Hand Sanitizer,10,400,beauty,26-May-20
+806,Nutella Choco Spread,7,55,snacks,21-Nov-21
+807,Oreo(20Rs),5,200,snacks,13-Jan-20
+808,Chocolate Muffin,1,200,snacks,11-Sep-20
+809,Ashirvaad Atta(1kg),7,300,grocery,02-Mar-21
+810,Sunflower Oil(1kg),5,400,grocery,01-May-20
+811,Bathing Soap,3,300,beauty,18-Jun-20
+812,Hand Sanitizer,4,400,beauty,24-Mar-21
+813,Nutella Choco Spread,4,55,snacks,06-Dec-21
+814,Oreo(20Rs),2,200,snacks,04-Mar-21
+815,Chocolate Muffin,8,200,snacks,06-Feb-22
+816,Ashirvaad Atta(1kg),1,300,grocery,02-Jul-22
+817,Sunflower Oil(1kg),10,400,grocery,09-Jul-22
+818,Bathing Soap,10,300,beauty,08-Dec-22
+819,Hand Sanitizer,10,400,beauty,06-Nov-20
+820,Nutella Choco Spread,6,55,snacks,26-Aug-22
+821,Oreo(20Rs),7,200,snacks,27-May-22
+822,Chocolate Muffin,9,200,snacks,09-Aug-21
+823,Ashirvaad Atta(1kg),5,300,grocery,16-Mar-22
+824,Sunflower Oil(1kg),8,400,grocery,28-Nov-22
+825,Bathing Soap,8,300,beauty,09-May-20
+826,Hand Sanitizer,7,400,beauty,15-Jan-20
+827,Nutella Choco Spread,1,55,snacks,21-Jan-21
+828,Oreo(20Rs),2,200,snacks,02-May-22
+829,Chocolate Muffin,9,200,snacks,25-Sep-21
+830,Ashirvaad Atta(1kg),6,300,grocery,03-Sep-21
+831,Sunflower Oil(1kg),7,400,grocery,05-Oct-20
+832,Bathing Soap,6,300,beauty,08-Jun-21
+833,Hand Sanitizer,10,400,beauty,23-Jun-20
+834,Nutella Choco Spread,8,55,snacks,09-May-20
+835,Oreo(20Rs),6,200,snacks,25-Nov-21
+836,Chocolate Muffin,4,200,snacks,07-Apr-21
+837,Ashirvaad Atta(1kg),9,300,grocery,19-Jan-22
+838,Sunflower Oil(1kg),8,400,grocery,11-Feb-22
+839,Bathing Soap,3,300,beauty,03-Aug-22
+840,Hand Sanitizer,3,400,beauty,01-Nov-20
+841,Nutella Choco Spread,4,55,snacks,20-Feb-22
+842,Oreo(20Rs),3,200,snacks,30-Mar-20
+843,Chocolate Muffin,7,200,snacks,11-Oct-21
+844,Ashirvaad Atta(1kg),9,300,grocery,13-Nov-20
+845,Sunflower Oil(1kg),8,400,grocery,23-Mar-22
+846,Bathing Soap,2,300,beauty,05-Dec-20
+847,Hand Sanitizer,9,400,beauty,02-Dec-21
+848,Nutella Choco Spread,8,55,snacks,24-Apr-20
+849,Oreo(20Rs),3,200,snacks,24-Sep-20
+850,Chocolate Muffin,6,200,snacks,25-May-21
+851,Ashirvaad Atta(1kg),10,300,grocery,28-Aug-22
+852,Sunflower Oil(1kg),4,400,grocery,11-Feb-22
+853,Bathing Soap,3,300,beauty,20-Jun-21
+854,Hand Sanitizer,3,400,beauty,10-Nov-20
+855,Nutella Choco Spread,8,55,snacks,11-Apr-22
+856,Oreo(20Rs),9,200,snacks,13-May-21
+857,Chocolate Muffin,4,200,snacks,30-Dec-21
+858,Ashirvaad Atta(1kg),10,300,grocery,09-May-22
+859,Sunflower Oil(1kg),9,400,grocery,16-Oct-20
+860,Bathing Soap,6,300,beauty,09-Mar-22
+861,Hand Sanitizer,3,400,beauty,29-Mar-20
+862,Nutella Choco Spread,1,55,snacks,19-Jun-22
+863,Oreo(20Rs),2,200,snacks,04-Nov-20
+864,Chocolate Muffin,4,200,snacks,28-Jan-22
+865,Ashirvaad Atta(1kg),1,300,grocery,15-Feb-20
+866,Sunflower Oil(1kg),8,400,grocery,19-Aug-20
+867,Bathing Soap,1,300,beauty,29-Oct-22
+868,Hand Sanitizer,4,400,beauty,12-Feb-22
+869,Nutella Choco Spread,4,55,snacks,18-Mar-21
+870,Oreo(20Rs),10,200,snacks,09-Jul-21
+871,Chocolate Muffin,3,200,snacks,10-Sep-22
+872,Ashirvaad Atta(1kg),9,300,grocery,02-Oct-21
+873,Sunflower Oil(1kg),7,400,grocery,31-Dec-22
+874,Bathing Soap,3,300,beauty,22-Oct-22
+875,Hand Sanitizer,6,400,beauty,08-Jan-20
+876,Nutella Choco Spread,3,55,snacks,03-Jul-21
+877,Oreo(20Rs),8,200,snacks,31-Mar-20
+878,Chocolate Muffin,4,200,snacks,19-May-20
+879,Ashirvaad Atta(1kg),3,300,grocery,24-Sep-21
+880,Sunflower Oil(1kg),4,400,grocery,26-Dec-20
+881,Bathing Soap,5,300,beauty,08-Jul-21
+882,Hand Sanitizer,1,400,beauty,02-Feb-21
+883,Nutella Choco Spread,1,55,snacks,20-Jun-20
+884,Oreo(20Rs),3,200,snacks,08-Apr-21
+885,Chocolate Muffin,1,200,snacks,25-Jun-20
+886,Ashirvaad Atta(1kg),2,300,grocery,12-Feb-20
+887,Sunflower Oil(1kg),3,400,grocery,03-Jan-21
+888,Bathing Soap,3,300,beauty,27-Nov-20
+889,Hand Sanitizer,9,400,beauty,01-Jul-20
+890,Nutella Choco Spread,1,55,snacks,18-May-20
+891,Oreo(20Rs),1,200,snacks,22-Jan-22
+892,Chocolate Muffin,1,200,snacks,09-Jan-20
+893,Ashirvaad Atta(1kg),4,300,grocery,01-Feb-20
+894,Sunflower Oil(1kg),7,400,grocery,10-Aug-20
+895,Bathing Soap,7,300,beauty,25-Jul-21
+896,Hand Sanitizer,8,400,beauty,07-May-20
+897,Nutella Choco Spread,8,55,snacks,13-Feb-20
+898,Oreo(20Rs),1,200,snacks,23-Nov-20
+899,Chocolate Muffin,7,200,snacks,17-Nov-21
+900,Ashirvaad Atta(1kg),5,300,grocery,15-Aug-20
+901,Sunflower Oil(1kg),5,400,grocery,13-Nov-20
+902,Bathing Soap,5,300,beauty,13-Mar-21
+903,Hand Sanitizer,10,400,beauty,18-Nov-22
+904,Nutella Choco Spread,8,55,snacks,31-Jul-22
+905,Oreo(20Rs),10,200,snacks,16-Sep-22
+906,Chocolate Muffin,7,200,snacks,29-Jan-20
+907,Ashirvaad Atta(1kg),10,300,grocery,04-Sep-20
+908,Sunflower Oil(1kg),10,400,grocery,28-Nov-21
+909,Bathing Soap,10,300,beauty,24-Sep-20
+910,Hand Sanitizer,10,400,beauty,14-Mar-20
+911,Nutella Choco Spread,5,55,snacks,31-Mar-21
+912,Oreo(20Rs),7,200,snacks,04-Feb-20
+913,Chocolate Muffin,3,200,snacks,31-Oct-20
+914,Ashirvaad Atta(1kg),1,300,grocery,21-Jul-20
+915,Sunflower Oil(1kg),6,400,grocery,27-Jul-22
+916,Bathing Soap,3,300,beauty,03-Aug-20
+917,Hand Sanitizer,9,400,beauty,27-Mar-22
+918,Nutella Choco Spread,10,55,snacks,20-Dec-21
+919,Oreo(20Rs),3,200,snacks,08-Jan-21
+920,Chocolate Muffin,6,200,snacks,17-Nov-21
+921,Ashirvaad Atta(1kg),6,300,grocery,01-Sep-20
+922,Sunflower Oil(1kg),8,400,grocery,04-Feb-21
+923,Bathing Soap,4,300,beauty,01-Jan-22
+924,Hand Sanitizer,3,400,beauty,09-Nov-21
+925,Nutella Choco Spread,3,55,snacks,06-Nov-21
+926,Oreo(20Rs),8,200,snacks,20-Jul-21
+927,Chocolate Muffin,3,200,snacks,03-Oct-21
+928,Ashirvaad Atta(1kg),7,300,grocery,17-Apr-22
+929,Sunflower Oil(1kg),9,400,grocery,09-Jul-21
+930,Bathing Soap,1,300,beauty,11-Jul-21
+931,Hand Sanitizer,8,400,beauty,29-Dec-21
+932,Nutella Choco Spread,6,55,snacks,23-May-20
+933,Oreo(20Rs),1,200,snacks,29-Sep-22
+934,Chocolate Muffin,2,200,snacks,06-May-22
+935,Ashirvaad Atta(1kg),8,300,grocery,29-Jul-20
+936,Sunflower Oil(1kg),3,400,grocery,08-Jan-21
+937,Bathing Soap,3,300,beauty,16-Jul-22
+938,Hand Sanitizer,5,400,beauty,25-Nov-22
+939,Nutella Choco Spread,6,55,snacks,09-Feb-20
+940,Oreo(20Rs),3,200,snacks,12-Oct-21
+941,Chocolate Muffin,7,200,snacks,30-Aug-20
+942,Ashirvaad Atta(1kg),9,300,grocery,11-Feb-21
+943,Sunflower Oil(1kg),9,400,grocery,11-Oct-22
+944,Bathing Soap,1,300,beauty,21-Jan-21
+945,Hand Sanitizer,10,400,beauty,21-Feb-21
+946,Nutella Choco Spread,2,55,snacks,21-Jun-20
+947,Oreo(20Rs),3,200,snacks,22-Oct-22
+948,Chocolate Muffin,7,200,snacks,08-Jan-20
+949,Ashirvaad Atta(1kg),10,300,grocery,02-Dec-22
+950,Sunflower Oil(1kg),9,400,grocery,16-Oct-22
+951,Bathing Soap,10,300,beauty,15-Apr-21
+952,Hand Sanitizer,1,400,beauty,29-Jul-22
+953,Nutella Choco Spread,8,55,snacks,07-Oct-21
+954,Oreo(20Rs),3,200,snacks,10-Oct-20
+955,Chocolate Muffin,3,200,snacks,30-Jul-22
+956,Ashirvaad Atta(1kg),6,300,grocery,20-Mar-20
+957,Sunflower Oil(1kg),2,400,grocery,22-Feb-22
+958,Bathing Soap,2,300,beauty,04-May-22
+959,Hand Sanitizer,1,400,beauty,04-Oct-21
+960,Nutella Choco Spread,10,55,snacks,10-Oct-20
+961,Oreo(20Rs),8,200,snacks,07-Mar-21
+962,Chocolate Muffin,2,200,snacks,04-Jun-20
+963,Ashirvaad Atta(1kg),2,300,grocery,22-Sep-22
+964,Sunflower Oil(1kg),10,400,grocery,23-Nov-21
+965,Bathing Soap,5,300,beauty,27-Oct-22
+966,Hand Sanitizer,1,400,beauty,01-Jan-20
+967,Oreo(20Rs),3,200,snacks,29-Sep-21
+968,Chocolate Muffin,7,200,snacks,22-Jan-22
+969,Ashirvaad Atta(1kg),10,300,grocery,02-Jun-22
+970,Sunflower Oil(1kg),9,400,grocery,11-Mar-20
+971,Bathing Soap,10,300,beauty,16-Dec-20
+972,Hand Sanitizer,1,400,beauty,23-Dec-22
+973,Nutella Choco Spread,8,55,snacks,10-Jun-21
+974,Oreo(20Rs),3,200,snacks,04-Mar-22
+975,Chocolate Muffin,3,200,snacks,23-Jan-22
+976,Ashirvaad Atta(1kg),6,300,grocery,02-Feb-20
+977,Sunflower Oil(1kg),2,400,grocery,06-May-20
+978,Bathing Soap,2,300,beauty,29-Nov-20
+979,Hand Sanitizer,1,400,beauty,01-Jun-20
+980,Nutella Choco Spread,10,55,snacks,02-Feb-20
+981,Oreo(20Rs),8,200,snacks,31-Jul-21
+982,Chocolate Muffin,2,200,snacks,11-Apr-22
+983,Ashirvaad Atta(1kg),2,300,grocery,03-Jun-20
+984,Sunflower Oil(1kg),10,400,grocery,11-Feb-22
+985,Bathing Soap,5,300,beauty,29-Apr-22
+986,Hand Sanitizer,1,400,beauty,08-Apr-20
+987,Nutella Choco Spread,,55,snacks,11-Jan-22
+988,Oreo(20Rs),9,200,snacks,15-Sep-22
+989,Chocolate Muffin,3,200,snacks,11-Jan-21
+990,Ashirvaad Atta(1kg),4,300,grocery,26-Aug-21
+991,Sunflower Oil(1kg),1,400,grocery,28-Nov-20
+992,Bathing Soap,4,300,beauty,25-Jan-22
+993,Hand Sanitizer,8,400,beauty,04-Aug-20
+994,Nutella Choco Spread,5,55,snacks,20-Dec-21
+995,Oreo(20Rs),7,200,snacks,17-Dec-22
+996,Chocolate Muffin,3,200,snacks,08-May-20
+997,Ashirvaad Atta(1kg),10,300,grocery,30-Apr-22
+998,Sunflower Oil(1kg),5,400,grocery,02-Feb-20
+999,Bathing Soap,8,300,beauty,08-Apr-22
+1000,Hand Sanitizer,8,400,beauty,12-Feb-22
+1001,Nutella Choco Spread,5,55,snacks,12-Feb-21
+1002,Oreo(20Rs),1,200,snacks,27-Jan-20
+1003,Chocolate Muffin,6,200,snacks,26-Nov-20
+1004,Ashirvaad Atta(1kg),5,300,grocery,19-May-22
+1005,Sunflower Oil(1kg),6,400,grocery,17-Jan-21
+1006,Bathing Soap,4,300,beauty,17-Feb-20
+1007,Hand Sanitizer,2,400,beauty,07-Oct-21
+1008,Nutella Choco Spread,1,55,snacks,19-Jan-21
+1009,Oreo(20Rs),6,200,snacks,31-Dec-21
+1010,Chocolate Muffin,7,200,snacks,04-Jun-20
+1011,Ashirvaad Atta(1kg),9,300,grocery,02-Oct-20
+1012,Sunflower Oil(1kg),2,400,grocery,03-Jun-20
+1013,Bathing Soap,6,300,beauty,11-Oct-22
+1014,Hand Sanitizer,3,400,beauty,28-Mar-22
+1015,Nutella Choco Spread,1,55,snacks,04-Dec-21
+1016,Oreo(20Rs),10,200,snacks,17-Jan-22
+1017,Chocolate Muffin,6,200,snacks,06-Jun-21
+1018,Ashirvaad Atta(1kg),10,300,grocery,26-Feb-22
+1019,Sunflower Oil(1kg),5,400,grocery,08-Feb-20
+1020,Bathing Soap,4,300,beauty,14-Jul-20
+1021,Hand Sanitizer,3,400,beauty,28-May-22
+1022,Nutella Choco Spread,7,55,snacks,21-Aug-20
+1023,Oreo(20Rs),8,200,snacks,11-Apr-21
+1024,Chocolate Muffin,9,200,snacks,25-Apr-22
+1025,Ashirvaad Atta(1kg),1,300,grocery,05-Jan-22
+1026,Sunflower Oil(1kg),7,400,grocery,04-Jul-21
+1027,Bathing Soap,7,300,beauty,11-May-22
+1028,Hand Sanitizer,5,400,beauty,13-May-22
+1029,Nutella Choco Spread,8,55,snacks,15-Dec-20
+1030,Oreo(20Rs),8,200,snacks,04-Apr-22
+1031,Chocolate Muffin,4,200,snacks,21-Feb-22
+1032,Ashirvaad Atta(1kg),1,300,grocery,13-Feb-21
+1033,Sunflower Oil(1kg),9,400,grocery,29-Jul-21
+1034,Bathing Soap,1,300,beauty,30-Dec-22
+1035,Hand Sanitizer,1,400,beauty,16-Oct-21
+1036,Nutella Choco Spread,9,55,snacks,25-May-21
+1037,Oreo(20Rs),10,200,snacks,11-Aug-20
+1038,Chocolate Muffin,1,200,snacks,12-Jun-22
+1039,Ashirvaad Atta(1kg),7,300,grocery,05-Oct-20
+1040,Sunflower Oil(1kg),6,400,grocery,21-Nov-21
+1041,Bathing Soap,10,300,beauty,07-Mar-22
+1042,Hand Sanitizer,8,400,beauty,27-Oct-20
+1043,Nutella Choco Spread,8,55,snacks,06-Feb-21
+1044,Oreo(20Rs),6,200,snacks,05-Jun-21
+1045,Chocolate Muffin,10,200,snacks,25-Jan-20
+1046,Ashirvaad Atta(1kg),7,300,grocery,04-Oct-22
+1047,Sunflower Oil(1kg),8,400,grocery,04-Mar-20
+1048,Bathing Soap,8,300,beauty,21-Mar-21
+1049,Hand Sanitizer,8,400,beauty,13-May-21
+1050,Nutella Choco Spread,2,55,snacks,11-May-21
+1051,Oreo(20Rs),7,200,snacks,11-Sep-21
+1052,Chocolate Muffin,2,200,snacks,30-Aug-22
+1053,Ashirvaad Atta(1kg),8,300,grocery,12-Jun-20
+1054,Sunflower Oil(1kg),3,400,grocery,12-Mar-22
+1055,Bathing Soap,5,300,beauty,23-Jan-21
+1056,Hand Sanitizer,8,400,beauty,22-Aug-22
+1057,Nutella Choco Spread,2,55,snacks,15-Apr-21
+1058,Oreo(20Rs),7,200,snacks,03-Sep-22
+1059,Chocolate Muffin,1,200,snacks,20-Jun-22
+1060,Ashirvaad Atta(1kg),6,300,grocery,06-Aug-22
+1061,Sunflower Oil(1kg),6,400,grocery,07-Apr-21
+1062,Bathing Soap,1,300,beauty,11-Feb-22
+1063,Hand Sanitizer,4,400,beauty,23-Jul-22
+1064,Nutella Choco Spread,4,55,snacks,15-Jun-22
+1065,Oreo(20Rs),3,200,snacks,18-Mar-21
+1066,Chocolate Muffin,10,200,snacks,24-Jul-21
+1067,Ashirvaad Atta(1kg),6,300,grocery,12-Jul-22
+1068,Sunflower Oil(1kg),1,400,grocery,29-Aug-20
+1069,Bathing Soap,4,300,beauty,10-Nov-22
+1070,Hand Sanitizer,8,400,beauty,13-Jul-21
+1071,Nutella Choco Spread,3,55,snacks,26-Jan-21
+1072,Oreo(20Rs),4,200,snacks,28-Apr-22
+1073,Chocolate Muffin,2,200,snacks,24-Oct-21
+1074,Ashirvaad Atta(1kg),4,300,grocery,24-Feb-20
+1075,Sunflower Oil(1kg),1,400,grocery,25-Jul-21
+1076,Bathing Soap,8,300,beauty,08-Dec-22
+1077,Hand Sanitizer,5,400,beauty,09-May-20
+1078,Nutella Choco Spread,5,55,snacks,25-Mar-20
+1079,Oreo(20Rs),5,200,snacks,15-Mar-22
+1080,Chocolate Muffin,7,200,snacks,10-Sep-22
+1081,Ashirvaad Atta(1kg),5,300,grocery,23-May-20
+1082,Sunflower Oil(1kg),1,400,grocery,24-Jun-20
+1083,Bathing Soap,3,300,beauty,15-Apr-22
+1084,Hand Sanitizer,1,400,beauty,18-Sep-21
+1085,Nutella Choco Spread,10,55,snacks,12-Nov-21
+1086,Oreo(20Rs),3,200,snacks,14-Sep-20
+1087,Chocolate Muffin,8,200,snacks,24-Feb-20
+1088,Ashirvaad Atta(1kg),8,300,grocery,26-May-22
+1089,Sunflower Oil(1kg),3,400,grocery,30-Sep-20
+1090,Bathing Soap,6,300,beauty,05-Mar-21
+1091,Hand Sanitizer,10,400,beauty,21-Mar-21
+1092,Nutella Choco Spread,6,55,snacks,28-Dec-20
+1093,Oreo(20Rs),9,200,snacks,30-Apr-20
+1094,Chocolate Muffin,8,200,snacks,26-Jun-22
+1095,Ashirvaad Atta(1kg),3,300,grocery,03-May-21
+1096,Sunflower Oil(1kg),2,400,grocery,13-Jun-22
+1097,Bathing Soap,3,300,beauty,22-Mar-20
+1098,Hand Sanitizer,2,400,beauty,18-Nov-21
+1099,Nutella Choco Spread,4,55,snacks,29-Jul-20
+1100,Oreo(20Rs),7,200,snacks,04-Dec-22
+1101,Chocolate Muffin,8,200,snacks,08-Aug-20
+1102,Ashirvaad Atta(1kg),1,300,grocery,29-May-20
+1103,Sunflower Oil(1kg),5,400,grocery,17-Apr-21
+1104,Bathing Soap,8,300,beauty,06-Aug-20
+1105,Hand Sanitizer,5,400,beauty,19-Nov-20
+1106,Nutella Choco Spread,6,55,snacks,14-Apr-22
+1107,Oreo(20Rs),9,200,snacks,28-Jun-20
+1108,Chocolate Muffin,7,200,snacks,11-May-20
+1109,Ashirvaad Atta(1kg),7,300,grocery,13-Nov-22
+1110,Sunflower Oil(1kg),4,400,grocery,01-Jul-20
+1111,Bathing Soap,7,300,beauty,20-May-20
+1112,Hand Sanitizer,1,400,beauty,27-Dec-20
+1113,Nutella Choco Spread,3,55,snacks,25-Mar-21
+1114,Oreo(20Rs),10,200,snacks,22-Nov-20
+1115,Chocolate Muffin,3,200,snacks,16-Aug-20
+1116,Ashirvaad Atta(1kg),5,300,grocery,24-Aug-21
+1117,Sunflower Oil(1kg),5,400,grocery,20-Nov-20
+1118,Bathing Soap,4,300,beauty,05-May-21
+1119,Hand Sanitizer,7,400,beauty,05-Jul-21
+1120,Nutella Choco Spread,4,55,snacks,13-Aug-21
+1121,Oreo(20Rs),5,200,snacks,15-Mar-20
+1122,Chocolate Muffin,3,200,snacks,18-May-22
+1123,Ashirvaad Atta(1kg),5,300,grocery,17-Mar-22
+1124,Sunflower Oil(1kg),2,400,grocery,01-Dec-21
+1125,Bathing Soap,9,300,beauty,15-Sep-20
+1126,Hand Sanitizer,9,400,beauty,21-Oct-21
+1127,Nutella Choco Spread,3,55,snacks,20-Jun-21
+1128,Oreo(20Rs),8,200,snacks,30-May-22
+1129,Chocolate Muffin,7,200,snacks,31-Jul-22
+1130,Ashirvaad Atta(1kg),4,300,grocery,11-Jul-20
+1131,Sunflower Oil(1kg),5,400,grocery,01-Nov-20
+1132,Bathing Soap,9,300,beauty,19-Aug-22
+1133,Hand Sanitizer,1,400,beauty,09-Aug-21
+1134,Nutella Choco Spread,9,55,snacks,17-Mar-21
+1135,Oreo(20Rs),6,200,snacks,28-Sep-21
+1136,Chocolate Muffin,5,200,snacks,07-Jun-22
+1137,Ashirvaad Atta(1kg),10,300,grocery,21-Oct-20
+1138,Sunflower Oil(1kg),1,400,grocery,30-Dec-21
+1139,Bathing Soap,2,300,beauty,01-Dec-22
+1140,Hand Sanitizer,3,400,beauty,06-Mar-20
+1141,Nutella Choco Spread,6,55,snacks,29-Jun-22
+1142,Oreo(20Rs),7,200,snacks,06-Dec-22
+1143,Chocolate Muffin,2,200,snacks,19-Mar-21
+1144,Ashirvaad Atta(1kg),8,300,grocery,15-Sep-21
+1145,Sunflower Oil(1kg),1,400,grocery,17-Oct-20
+1146,Bathing Soap,5,300,beauty,12-Jun-20
+1147,Hand Sanitizer,8,400,beauty,26-Jul-21
+1148,Nutella Choco Spread,4,55,snacks,11-May-20
+1149,Oreo(20Rs),5,200,snacks,01-Aug-22
+1150,Chocolate Muffin,2,200,snacks,15-Apr-21
+1151,Ashirvaad Atta(1kg),3,300,grocery,09-Sep-22
+1152,Sunflower Oil(1kg),10,400,grocery,22-Jun-20
+1153,Bathing Soap,6,300,beauty,27-Nov-21
+1154,Hand Sanitizer,3,400,beauty,08-Apr-20
+1155,Nutella Choco Spread,3,55,snacks,28-Feb-22
+1156,Oreo(20Rs),5,200,snacks,25-Dec-20
+1157,Chocolate Muffin,3,200,snacks,16-Aug-21
+1158,Ashirvaad Atta(1kg),3,300,grocery,18-Jul-20
+1159,Sunflower Oil(1kg),5,400,grocery,16-Nov-22
+1160,Bathing Soap,8,300,beauty,04-Apr-21
+1161,Hand Sanitizer,7,400,beauty,22-Feb-22
+1162,Nutella Choco Spread,10,55,snacks,09-Jun-22
+1163,Oreo(20Rs),1,200,snacks,23-Oct-22
+1164,Chocolate Muffin,7,200,snacks,05-Apr-20
+1165,Ashirvaad Atta(1kg),7,300,grocery,08-Oct-22
+1166,Sunflower Oil(1kg),10,400,grocery,26-Dec-20
+1167,Bathing Soap,9,300,beauty,23-Aug-20
+1168,Hand Sanitizer,1,400,beauty,31-May-22
+1169,Nutella Choco Spread,4,55,snacks,02-Jul-20
+1170,Oreo(20Rs),8,200,snacks,28-Jun-20
+1171,Chocolate Muffin,6,200,snacks,03-Aug-20
+1172,Ashirvaad Atta(1kg),10,300,grocery,17-Oct-22
+1173,Sunflower Oil(1kg),3,400,grocery,06-Oct-20
+1174,Bathing Soap,4,300,beauty,06-Jun-22
+1175,Hand Sanitizer,9,400,beauty,26-Feb-20
+1176,Nutella Choco Spread,9,55,snacks,18-Jan-21
+1177,Oreo(20Rs),1,200,snacks,12-Jun-20
+1178,Chocolate Muffin,9,200,snacks,06-Jan-22
+1179,Ashirvaad Atta(1kg),1,300,grocery,04-Aug-20
+1180,Sunflower Oil(1kg),9,400,grocery,01-Jul-21
+1181,Bathing Soap,7,300,beauty,10-Jul-21
+1182,Hand Sanitizer,7,400,beauty,15-Oct-22
+1183,Nutella Choco Spread,2,55,snacks,01-Mar-22
+1184,Oreo(20Rs),4,200,snacks,06-Jan-22
+1185,Chocolate Muffin,1,200,snacks,15-Jul-21
+1186,Ashirvaad Atta(1kg),4,300,grocery,12-Feb-22
+1187,Sunflower Oil(1kg),9,400,grocery,02-Jul-20
+1188,Bathing Soap,2,300,beauty,16-Aug-22
+1189,Hand Sanitizer,4,400,beauty,04-Oct-21
+1190,Nutella Choco Spread,7,55,snacks,01-Feb-22
+1191,Oreo(20Rs),9,200,snacks,14-Feb-21
+1192,Chocolate Muffin,1,200,snacks,17-Feb-22
+1193,Ashirvaad Atta(1kg),3,300,grocery,05-Oct-21
+1194,Sunflower Oil(1kg),3,400,grocery,10-May-20
+1195,Bathing Soap,8,300,beauty,12-Aug-21
+1196,Hand Sanitizer,10,400,beauty,17-Nov-22
+1197,Nutella Choco Spread,3,55,snacks,20-Mar-20
+1198,Oreo(20Rs),9,200,snacks,14-Nov-21
+1199,Chocolate Muffin,9,200,snacks,30-Sep-20
+1200,Ashirvaad Atta(1kg),10,300,grocery,27-Nov-20
+1201,Sunflower Oil(1kg),7,400,grocery,17-Feb-20
+1202,Bathing Soap,8,300,beauty,03-Oct-22
+1203,Hand Sanitizer,1,400,beauty,17-Jul-21
+1204,Nutella Choco Spread,4,55,snacks,13-Dec-22
+1205,Oreo(20Rs),7,200,snacks,10-Nov-20
+1206,Chocolate Muffin,5,200,snacks,25-Dec-20
+1207,Ashirvaad Atta(1kg),2,300,grocery,24-Jun-21
+1208,Sunflower Oil(1kg),10,400,grocery,20-Aug-20
+1209,Bathing Soap,2,300,beauty,17-Mar-21
+1210,Hand Sanitizer,4,400,beauty,01-Mar-21
+1211,Nutella Choco Spread,1,55,snacks,08-Sep-21
+1212,Oreo(20Rs),4,200,snacks,17-Aug-21
+1213,Chocolate Muffin,6,200,snacks,22-Nov-20
+1214,Ashirvaad Atta(1kg),6,300,grocery,07-Jul-22
+1215,Sunflower Oil(1kg),10,400,grocery,16-Jan-20
+1216,Bathing Soap,8,300,beauty,28-Sep-21
+1217,Hand Sanitizer,7,400,beauty,28-Oct-22
+1218,Nutella Choco Spread,2,55,snacks,17-Dec-20
+1219,Oreo(20Rs),7,200,snacks,27-May-20
+1220,Chocolate Muffin,6,200,snacks,16-Jul-21
+1221,Ashirvaad Atta(1kg),1,300,grocery,16-Feb-20
+1222,Sunflower Oil(1kg),5,400,grocery,01-May-21
+1223,Bathing Soap,6,300,beauty,12-Mar-20
+1224,Hand Sanitizer,6,400,beauty,19-Mar-21
+1225,Nutella Choco Spread,5,55,snacks,29-Mar-20
+1226,Oreo(20Rs),4,200,snacks,15-Feb-20
+1227,Chocolate Muffin,9,200,snacks,14-Jun-22
+1228,Ashirvaad Atta(1kg),2,300,grocery,23-Jul-20
+1229,Sunflower Oil(1kg),5,400,grocery,09-May-21
+1230,Bathing Soap,10,300,beauty,16-Nov-22
+1231,Hand Sanitizer,6,400,beauty,06-Jan-22
+1232,Nutella Choco Spread,10,55,snacks,19-Feb-20
+1233,Oreo(20Rs),2,200,snacks,24-Sep-22
+1234,Chocolate Muffin,9,200,snacks,27-Mar-22
+1235,Ashirvaad Atta(1kg),1,300,grocery,30-Nov-22
+1236,Sunflower Oil(1kg),8,400,grocery,28-Mar-20
+1237,Bathing Soap,1,300,beauty,04-Aug-21
+1238,Hand Sanitizer,8,400,beauty,18-Dec-22
+1239,Nutella Choco Spread,6,55,snacks,01-Apr-22
+1240,Oreo(20Rs),5,200,snacks,27-Jan-21
+1241,Chocolate Muffin,3,200,snacks,07-Dec-22
+1242,Ashirvaad Atta(1kg),10,300,grocery,24-Jul-22
+1243,Sunflower Oil(1kg),7,400,grocery,11-Dec-20
+1244,Bathing Soap,9,300,beauty,20-Jun-20
+1245,Hand Sanitizer,1,400,beauty,28-Aug-20
+1246,Nutella Choco Spread,2,55,snacks,22-Jun-20
+1247,Oreo(20Rs),6,200,snacks,07-Jun-20
+1248,Chocolate Muffin,10,200,snacks,13-Apr-22
+1249,Ashirvaad Atta(1kg),9,300,grocery,03-Dec-21
+1250,Sunflower Oil(1kg),1,400,grocery,09-Nov-20
+1251,Bathing Soap,9,300,beauty,24-Sep-20
+1252,Hand Sanitizer,6,400,beauty,17-Oct-20
+1253,Nutella Choco Spread,10,55,snacks,19-Sep-22
+1254,Oreo(20Rs),6,200,snacks,02-Jan-20
+1255,Chocolate Muffin,7,200,snacks,24-Jan-22
+1256,Ashirvaad Atta(1kg),5,300,grocery,15-Apr-21
+1257,Sunflower Oil(1kg),6,400,grocery,06-Apr-21
+1258,Bathing Soap,10,300,beauty,22-Mar-22
+1259,Hand Sanitizer,10,400,beauty,05-Mar-21
+1260,Nutella Choco Spread,4,55,snacks,22-Oct-22
+1261,Oreo(20Rs),4,200,snacks,12-Feb-21
+1262,Chocolate Muffin,2,200,snacks,16-Jan-20
+1263,Ashirvaad Atta(1kg),9,300,grocery,02-Oct-22
+1264,Sunflower Oil(1kg),7,400,grocery,03-Oct-21
+1265,Bathing Soap,3,300,beauty,28-Nov-21
+1266,Hand Sanitizer,7,400,beauty,13-May-20
+1267,Nutella Choco Spread,4,55,snacks,10-Aug-21
+1268,Oreo(20Rs),9,200,snacks,31-Jan-22
+1269,Chocolate Muffin,7,200,snacks,20-Apr-22
+1270,Ashirvaad Atta(1kg),4,300,grocery,09-Apr-21
+1271,Sunflower Oil(1kg),9,400,grocery,28-Jun-21
+1272,Bathing Soap,1,300,beauty,02-Jun-21
+1273,Hand Sanitizer,9,400,beauty,06-Jul-22
+1274,Nutella Choco Spread,5,55,snacks,21-Apr-21
+1275,Oreo(20Rs),8,200,snacks,27-Jul-22
+1276,Chocolate Muffin,8,200,snacks,23-May-22
+1277,Ashirvaad Atta(1kg),1,300,grocery,25-Dec-21
+1278,Sunflower Oil(1kg),1,400,grocery,13-Nov-22
+1279,Bathing Soap,9,300,beauty,03-Dec-22
+1280,Hand Sanitizer,8,400,beauty,13-Apr-20
+1281,Nutella Choco Spread,3,55,snacks,30-Mar-21
+1282,Oreo(20Rs),9,200,snacks,25-Apr-22
+1283,Chocolate Muffin,4,200,snacks,01-Apr-22
+1284,Ashirvaad Atta(1kg),9,300,grocery,24-Mar-22
+1285,Sunflower Oil(1kg),3,400,grocery,30-Sep-22
+1286,Bathing Soap,2,300,beauty,18-Nov-22
+1287,Hand Sanitizer,4,400,beauty,24-Jun-21
+1288,Nutella Choco Spread,8,55,snacks,24-Nov-20
+1289,Oreo(20Rs),3,200,snacks,15-Nov-20
+1290,Chocolate Muffin,1,200,snacks,09-Apr-20
+1291,Ashirvaad Atta(1kg),6,300,grocery,09-Nov-20
+1292,Sunflower Oil(1kg),4,400,grocery,17-Oct-22
+1293,Bathing Soap,3,300,beauty,02-Apr-21
+1294,Hand Sanitizer,10,400,beauty,18-Jul-22
+1295,Nutella Choco Spread,1,55,snacks,13-Jun-20
+1296,Oreo(20Rs),5,200,snacks,22-Mar-20
+1297,Chocolate Muffin,4,200,snacks,01-Sep-22
+1298,Ashirvaad Atta(1kg),3,300,grocery,08-Oct-20
+1299,Sunflower Oil(1kg),1,400,grocery,10-Jul-22
+1300,Bathing Soap,8,300,beauty,03-May-21
+1301,Hand Sanitizer,7,400,beauty,25-Jul-20
+1302,Nutella Choco Spread,6,55,snacks,20-Mar-22
+1303,Oreo(20Rs),2,200,snacks,13-Nov-20
+1304,Chocolate Muffin,10,200,snacks,29-Sep-20
+1305,Ashirvaad Atta(1kg),8,300,grocery,20-May-20
+1306,Sunflower Oil(1kg),10,400,grocery,31-Jan-21
+1307,Bathing Soap,7,300,beauty,24-Dec-21
+1308,Hand Sanitizer,10,400,beauty,17-May-21
+1309,Nutella Choco Spread,7,55,snacks,25-Jul-22
+1310,Oreo(20Rs),5,200,snacks,14-Jun-21
+1311,Chocolate Muffin,1,200,snacks,22-May-20
+1312,Ashirvaad Atta(1kg),7,300,grocery,18-Jan-21
+1313,Sunflower Oil(1kg),5,400,grocery,19-Feb-20
+1314,Bathing Soap,3,300,beauty,15-Jul-20
+1315,Hand Sanitizer,4,400,beauty,29-May-21
+1316,Nutella Choco Spread,4,55,snacks,18-Apr-21
+1317,Oreo(20Rs),2,200,snacks,11-Nov-21
+1318,Chocolate Muffin,8,200,snacks,27-Apr-20
+1319,Ashirvaad Atta(1kg),1,300,grocery,05-Jul-21
+1320,Sunflower Oil(1kg),10,400,grocery,01-Jul-21
+1321,Bathing Soap,10,300,beauty,21-Jul-20
+1322,Hand Sanitizer,10,400,beauty,04-Feb-22
+1323,Nutella Choco Spread,6,55,snacks,27-Dec-22
+1324,Oreo(20Rs),7,200,snacks,24-Oct-22
+1325,Chocolate Muffin,9,200,snacks,01-Feb-22
+1326,Ashirvaad Atta(1kg),5,300,grocery,08-Apr-20
+1327,Sunflower Oil(1kg),8,400,grocery,04-Apr-22
+1328,Bathing Soap,8,300,beauty,06-Oct-22
+1329,Hand Sanitizer,7,400,beauty,14-Nov-21
+1330,Nutella Choco Spread,1,55,snacks,07-Mar-20
+1331,Oreo(20Rs),2,200,snacks,12-Nov-21
+1332,Chocolate Muffin,9,200,snacks,05-Jul-21
+1333,Ashirvaad Atta(1kg),6,300,grocery,15-Feb-20
+1334,Sunflower Oil(1kg),7,400,grocery,31-Mar-21
+1335,Bathing Soap,6,300,beauty,03-Aug-21
+1336,Hand Sanitizer,10,400,beauty,25-May-22
+1337,Nutella Choco Spread,8,55,snacks,21-Sep-20
+1338,Oreo(20Rs),6,200,snacks,01-Feb-21
+1339,Chocolate Muffin,4,200,snacks,06-Jan-22
+1340,Ashirvaad Atta(1kg),9,300,grocery,31-Oct-22
+1341,Sunflower Oil(1kg),8,400,grocery,03-Sep-21
+1342,Bathing Soap,3,300,beauty,31-Dec-21
+1343,Hand Sanitizer,3,400,beauty,15-Jul-22
+1344,Nutella Choco Spread,4,55,snacks,14-Oct-22
+1345,Oreo(20Rs),3,200,snacks,20-Mar-22
+1346,Chocolate Muffin,7,200,snacks,25-Feb-22
+1347,Ashirvaad Atta(1kg),9,300,grocery,19-Nov-20
+1348,Sunflower Oil(1kg),8,400,grocery,12-Sep-21
+1349,Bathing Soap,2,300,beauty,10-Apr-21
+1350,Hand Sanitizer,9,400,beauty,05-May-21
+1351,Nutella Choco Spread,8,55,snacks,16-Oct-22
+1352,Oreo(20Rs),3,200,snacks,22-Nov-21
+1353,Chocolate Muffin,6,200,snacks,04-Jul-22
+1354,Ashirvaad Atta(1kg),10,300,grocery,27-Feb-20
+1355,Sunflower Oil(1kg),4,400,grocery,17-Sep-21
+1356,Bathing Soap,3,300,beauty,05-Apr-22
+1357,Hand Sanitizer,3,400,beauty,16-Dec-22
+1358,Nutella Choco Spread,8,55,snacks,06-Nov-21
+1359,Oreo(20Rs),9,200,snacks,01-Jan-20
+1360,Chocolate Muffin,4,200,snacks,11-Feb-20
+1361,Ashirvaad Atta(1kg),10,300,grocery,21-Feb-21
+1362,Sunflower Oil(1kg),9,400,grocery,18-Apr-21
+1363,Bathing Soap,6,300,beauty,07-Apr-20
+1364,Hand Sanitizer,3,400,beauty,25-Nov-22
+1365,Nutella Choco Spread,1,55,snacks,03-Aug-22
+1366,Oreo(20Rs),2,200,snacks,22-Jan-21
+1367,Chocolate Muffin,4,200,snacks,13-Jun-22
+1368,Ashirvaad Atta(1kg),1,300,grocery,27-Aug-22
+1369,Sunflower Oil(1kg),8,400,grocery,24-Jul-21
+1370,Bathing Soap,1,300,beauty,12-Mar-20
+1371,Hand Sanitizer,4,400,beauty,12-Feb-22
+1372,Nutella Choco Spread,4,55,snacks,10-Sep-21
+1373,Oreo(20Rs),10,200,snacks,03-Feb-20
+1374,Chocolate Muffin,3,200,snacks,11-Feb-21
+1375,Ashirvaad Atta(1kg),9,300,grocery,29-Nov-22
+1376,Sunflower Oil(1kg),7,400,grocery,10-Oct-21
+1377,Bathing Soap,3,300,beauty,01-Sep-22
+1378,Hand Sanitizer,6,400,beauty,21-Oct-20
+1379,Nutella Choco Spread,3,55,snacks,11-Jun-21
+1380,Oreo(20Rs),8,200,snacks,26-Jan-20
+1381,Chocolate Muffin,4,200,snacks,23-Jun-20
+1382,Ashirvaad Atta(1kg),3,300,grocery,21-Apr-20
+1383,Sunflower Oil(1kg),4,400,grocery,02-Apr-20
+1384,Bathing Soap,5,300,beauty,28-Jul-21
+1385,Hand Sanitizer,1,400,beauty,01-May-20
+1386,Nutella Choco Spread,1,55,snacks,27-May-21
+1387,Oreo(20Rs),3,200,snacks,03-Apr-20
+1388,Chocolate Muffin,1,200,snacks,18-Dec-22
+1389,Ashirvaad Atta(1kg),2,300,grocery,02-Feb-22
+1390,Sunflower Oil(1kg),3,400,grocery,27-Dec-21
+1391,Bathing Soap,3,300,beauty,27-Nov-22
+1392,Hand Sanitizer,9,400,beauty,09-Mar-22
+1393,Nutella Choco Spread,1,55,snacks,23-Jan-22
+1394,Oreo(20Rs),1,200,snacks,20-Jan-22
+1395,Chocolate Muffin,1,200,snacks,31-Dec-20
+1396,Ashirvaad Atta(1kg),4,300,grocery,30-Nov-21
+1397,Sunflower Oil(1kg),7,400,grocery,27-Jan-20
+1398,Bathing Soap,7,300,beauty,16-Feb-22
+1399,Hand Sanitizer,8,400,beauty,04-Apr-22
+1400,Nutella Choco Spread,8,55,snacks,01-Nov-20
+1401,Oreo(20Rs),1,200,snacks,19-May-20
+1402,Chocolate Muffin,7,200,snacks,14-Oct-20
+1403,Ashirvaad Atta(1kg),5,300,grocery,21-Apr-21
+1404,Sunflower Oil(1kg),5,400,grocery,06-Mar-20
+1405,Bathing Soap,5,300,beauty,03-Jun-21
+1406,Hand Sanitizer,10,400,beauty,01-May-21
+1407,Nutella Choco Spread,8,55,snacks,05-Jun-21
+1408,Oreo(20Rs),10,200,snacks,20-Dec-22
+1409,Chocolate Muffin,7,200,snacks,21-Apr-21
+1410,Ashirvaad Atta(1kg),10,300,grocery,07-Nov-22
+1411,Sunflower Oil(1kg),10,400,grocery,09-Sep-22
+1412,Bathing Soap,10,300,beauty,06-May-20
+1413,Hand Sanitizer,10,400,beauty,27-May-21
+1414,Nutella Choco Spread,5,55,snacks,04-Aug-22
+1415,Oreo(20Rs),7,200,snacks,15-Jul-20
+1416,Chocolate Muffin,3,200,snacks,01-Aug-21
+1417,Ashirvaad Atta(1kg),1,300,grocery,27-Aug-20
+1418,Sunflower Oil(1kg),6,400,grocery,20-Nov-20
+1419,Bathing Soap,3,300,beauty,03-Jul-21
+1420,Hand Sanitizer,9,400,beauty,19-Aug-20
+1421,Nutella Choco Spread,10,55,snacks,02-Jun-22
+1422,Oreo(20Rs),3,200,snacks,20-Dec-21
+1423,Chocolate Muffin,6,200,snacks,13-Jan-20
+1424,Ashirvaad Atta(1kg),6,300,grocery,24-Aug-20
+1425,Sunflower Oil(1kg),8,400,grocery,15-Oct-22
+1426,Bathing Soap,4,300,beauty,02-Jun-20
+1427,Hand Sanitizer,3,400,beauty,22-Feb-20
+1428,Nutella Choco Spread,3,55,snacks,22-Jan-21
+1429,Oreo(20Rs),8,200,snacks,13-Aug-20
+1430,Chocolate Muffin,3,200,snacks,26-Jul-21
+1431,Ashirvaad Atta(1kg),7,300,grocery,29-May-21
+1432,Sunflower Oil(1kg),9,400,grocery,14-Jul-20
+1433,Bathing Soap,1,300,beauty,24-Sep-21
+1434,Hand Sanitizer,8,400,beauty,25-Mar-22
+1435,Nutella Choco Spread,6,55,snacks,11-Dec-22
+1436,Oreo(20Rs),1,200,snacks,13-Nov-22
+1437,Chocolate Muffin,2,200,snacks,23-Nov-22
+1438,Ashirvaad Atta(1kg),8,300,grocery,18-Jul-22
+1439,Sunflower Oil(1kg),3,400,grocery,01-Nov-21
+1440,Bathing Soap,3,300,beauty,04-Nov-22
+1441,Hand Sanitizer,5,400,beauty,04-Oct-22
+1442,Nutella Choco Spread,6,55,snacks,21-Dec-21
+1443,Oreo(20Rs),3,200,snacks,10-Jan-21
+1444,Chocolate Muffin,7,200,snacks,20-Oct-20
+1445,Ashirvaad Atta(1kg),9,300,grocery,25-Mar-21
+1446,Sunflower Oil(1kg),9,400,grocery,03-Aug-20
+1447,Bathing Soap,1,300,beauty,01-Jul-20
+1448,Hand Sanitizer,10,400,beauty,05-Dec-22
+1449,Nutella Choco Spread,2,55,snacks,12-Mar-22
+1450,Oreo(20Rs),3,200,snacks,12-Feb-22
+1451,Chocolate Muffin,7,200,snacks,15-Jan-20
+1452,Ashirvaad Atta(1kg),10,300,grocery,30-May-20
+1453,Sunflower Oil(1kg),9,400,grocery,01-Apr-22
+1454,Bathing Soap,10,300,beauty,18-Jan-20
+1455,Hand Sanitizer,1,400,beauty,24-Mar-21
+1456,Nutella Choco Spread,8,55,snacks,23-Feb-22
+1457,Oreo(20Rs),3,200,snacks,06-Jul-22
+1458,Chocolate Muffin,3,200,snacks,29-Dec-21
+1459,Ashirvaad Atta(1kg),6,300,grocery,23-Mar-20
+1460,Sunflower Oil(1kg),2,400,grocery,27-Jul-20
+1461,Bathing Soap,2,300,beauty,04-May-20
+1462,Hand Sanitizer,1,400,beauty,31-Jul-21
+1463,Nutella Choco Spread,10,55,snacks,28-May-20
+1464,Oreo(20Rs),8,200,snacks,31-Dec-20
+1465,Chocolate Muffin,2,200,snacks,19-Apr-21
+1466,Ashirvaad Atta(1kg),2,300,grocery,12-Jun-22
+1467,Sunflower Oil(1kg),10,400,grocery,07-Aug-20
+1468,Bathing Soap,5,300,beauty,21-Aug-22
+1469,Hand Sanitizer,1,400,beauty,11-Sep-22
